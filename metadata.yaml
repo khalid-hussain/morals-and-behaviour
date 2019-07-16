@@ -1,0 +1,21 @@
+---
+title:
+  - type: main
+    text: Kitāb al-Akhlāq wa Siyar
+  - type: subtitle
+    text: A book on Morals and Behaviour
+creator:
+  - role: author
+    text: Imam Ibn Ḥazm al-Andalusī
+  - role: translator
+    text: Dr. Muḥammad Abū Laylā
+  - role: editor
+    text: Mohammad Khalid Hussain
+publisher: Granada Publications
+date: 2019
+lang: en-GB
+description: This is the description.
+page-progression-direction: ltr
+css: epub3.css
+---
+

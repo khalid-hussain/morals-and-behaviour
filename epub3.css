@@ -1,0 +1,72 @@
+/* This defines styles and classes used in the book */
+body { margin: 5%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1.title { }
+h2.author { }
+h3.date { }
+nav#toc ol,
+nav#landmarks ol { padding: 0; margin-left: 1em; }
+nav#toc ol li,
+nav#landmarks ol li { list-style-type: none; margin: 0; padding: 0; }
+a.footnote-ref { vertical-align: super; }
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
+code{ white-space: pre-wrap; }
+span.smallcaps{ font-variant: small-caps; }
+span.underline{ text-decoration: underline; }
+q { quotes: "“" "”" "‘" "’"; }
+div.column{ display: inline-block; vertical-align: top; width: 50%; }
+
+/* Embedded Fonts */
+@font-face {
+font-family: LinuxBiolinum;
+font-style: normal;
+font-weight: normal;
+src:url("../fonts/LinBiolinum-Regular.ttf");
+}
+@font-face {
+font-family: LinuxBiolinum;
+font-style: normal;
+font-weight: bold;
+src:url("../fonts/LinBiolinum-Bold.ttf");
+}
+@font-face {
+font-family: LinuxBiolinum;
+font-style: italic;
+font-weight: normal;
+src:url("../fonts/LinBiolinum-Italic.ttf");
+}
+body { font-family: "LinuxBiolinum"; }
+
+/**/
+li {
+  /*margin: 2em 0;*/
+  padding-top: 1em;
+  display: block;
+  position: relative;
+  counter-increment: inst;
+}
+li::before {
+  content: counter(inst);
+  
+  background: rgba(255, 150, 0, 0.35);
+  color: #fff;
+
+  border-radius: 0 0.675em 0.675em 0;
+  font-size: 1em;
+  text-align: center;
+
+  padding-top: 0;
+  padding-left: 2.25%;
+  left: -5%;
+  top: -0.65em;
+  height: 1.35em;
+  width: 1.35em;
+  position: absolute;
+}
