@@ -1,8 +1,7 @@
 default: epub
 
-combine:
+combine-main:
 	cat \
-	metadata.yaml \
 	_introduction.md \
 	1-the-treatment.md \
 	2-the-mind-and-repose.md \
@@ -15,9 +14,22 @@ combine:
 	9-treatment-of-corrupt-morality.md \
 	10-characteristics-of-the-soul.md \
 	11-mans-desire-to-know.md \
-	12-the-way-to-attend-halaqaat.md > combined.md
+	12-the-way-to-attend-halaqaat.md > main-matter.md
 
-epub: combine
+combine-epub: combine-main
+	cat \
+	metadata.yaml \
+	_macros.md \
+	main-matter.md > combined.md
+
+combine-latex: combine-main
+	cat \
+	metadata.yaml \
+	_macros.md \
+	main-matter.md \
+	_definitions.md > combined.md
+
+epub: combine-epub
 	pandoc -f markdown+startnum+four_space_rule \
 	-t epub \
 	-o akhlaq-wa-siyar.epub --toc \
@@ -35,3 +47,4 @@ latex: combine
 
 clean:
 	rm combined.md
+	rm main-matter.md
