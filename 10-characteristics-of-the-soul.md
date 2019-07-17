@@ -55,5 +55,3 @@ comportment[^mean-comportment] should there be any sign that he is troubled.
     If a man whose own judgement is poor only knew what harm his false
     calculations had brought upon him so far, he would find success in the
     future if he stopped relying on his own judgement, Allāh guide us.
-
-[^mean-comportment]: _comportment_: Personal bearing, carriage, demeanour, deportment; behaviour, outward conduct, course of action.
