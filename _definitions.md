@@ -82,3 +82,69 @@ persons, their action, speech, etc.)
 
 [^mean-implacable]: _implacable_: That cannot be appeased; irreconcileable; inexorable: of persons, feelings, etc.
 
+[^mean-precipitious]: _precipitious_: Involving risk of sudden fall or ruin.
+
+[^mean-sniveller]: _snivel_: To make a sniffing or snuffling sound expressive of real or assumed emotion; to be in, or affect, a tearful state.
+
+[^mean-impassive]: _impassive_: Deficient in, or void of, mental feeling or emotion; not susceptible to mental impressions; unimpressionable, apathetic; also, in good sense, not liable to be disturbed by passion, serene.
+
+[^mean-comportment]: _comportment_: Personal bearing, carriage, demeanour, deportment; behaviour, outward conduct, course of action.
+
+[^mean-salutary]: _salutary_: Conducive to well-being; calculated to bring about a more satisfactory condition, or to remedy some evil; beneficial, ‘wholesome.’
+
+[^mean-riposte]: _riposte_: To reply or retaliate; to answer (one).
+
+[^mean-credulous]: _credulous_: Over-ready to believe; apt to believe on weak or insufficient grounds.
+
+[^mean-opulence]: _opulence_: Wealth, riches, affluence.
+
+[^mean-opprobrium]: _opprobrium_: The disgrace or evil reputation attached to
+conduct considered shameful; the imputation or expression of this disgrace;
+infamy, reproach.
+
+[^mean-perfidious]: _perfidious_: ...deliberately faithless; basely
+treacherous.
+
+[^mean-ingot]: _ingot_: as _ingot-copper_, _ingot-gad_, _ingot-holder_,
+_ingot-mould_, _ingot-silver_, _ingot-steel_, etc. _ingot iron_, iron which
+contains too little carbon to temper and is nearly pure by industrial
+standards, differing from wrought iron in containing no slag.
+
+[^mean-libeller]: _libeller_: One who libels another; one who publishes a
+libel or libels. _Libel_: (n.) In popular use: Any false and defamatory
+statement in conversation or otherwise. (v.) To make libellous accusations or
+statements; to spread defamation.
+
+[^mean-perspicacious]: _perspicacious_: Of persons, their faculties, etc.: Of
+clear or penetrating mental vision or discernment.
+
+[^mean-drivelling]: _drivelling_: Characterized by or given to silly childish
+talk or weak action; idiotic.
+
+[^mean-servility]: _servility_: Mean submissiveness, degradingly obsequious
+demeanour, cringing.
+
+[^mean-provenance]: _provenance_: The fact of coming from some particular
+source or quarter; origin, derivation.
+
+[^mean-goad]: _goad_: To assail or prick as with a goad; to irritate; to instigate or
+impel by some form of mental pain or annoyance; to drive by continued
+irritation _into_ or _to_ some desperate action or uncontrolled state of mind.
+
+[^mean-vain]: _vain_: Given to or indulging in personal vanity; having an
+excessively high opinion of one's own appearance, attainments, qualities,
+possessions, etc.; delighting in, or desirous of attracting, the admiration of
+others; conceited.
+
+[^mean-guttersnipe]: _guttersnipe_: A child brought up ‘in the gutter’; one of
+the lowest class; an urchin.
+
+[^mean-nadir]: _nadir_: The lowest point (of anything); the place or time of greatest
+depression or degradation.
+
+[^mean-wallow]: _wallow_: To roll the body about indolently or clumsily in or
+as if in water, snow, or mud.
+
+[^mean-knavish]: _knavish_: Roguish, rascally, mischievous, impertinent.
+
+[^mean-palaver]: _palaver_: Applied contemptuously to (what is considered) unnecessary, profuse, or idle talk; ‘jaw.’
