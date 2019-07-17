@@ -141,11 +141,11 @@ which is granted or withheld by Allāh Almighty.
 
 <!-- TODO Check (Cairo, Bulaq) format -->
 
-[^basri]: Al-Ḥasan al-Baṣrī ([ah]{style="font-variant:small-caps;"} 100/718
-[ce]{style="font-variant:small-caps;"}) was a great Muslim traditionalist and
-Ṣūfī ascetic. In the history of Islām he looms large for his literary
-writings and moral sayings. See Ibn Khallikān, _Wafayāt_ (Cairo, Bulaq) vol.\
-1, p.\ 227. He was born and lived in Basra, southern Iraq.
+[^basri]: Al-Ḥasan al-Baṣrī (d.\ [ah]{style="font-variant:small-caps;"}
+100/718 [ce]{style="font-variant:small-caps;"}) was a great Muslim
+traditionalist and Ṣūfī ascetic. In the history of Islām he looms large for
+his literary writings and moral sayings. See Ibn Khallikān, _Wafayāt_ (Cairo:
+Bulaq, n.d.) vol.\ 1, p.\ 227. He was born and lived in Basra, southern Iraq.
 
 [^plato]: Plato, the famous Greek philosopher, d.\ 347
 [bc]{style="font-variant:small-caps;"}, disciple of Socrates, visited Egypt
