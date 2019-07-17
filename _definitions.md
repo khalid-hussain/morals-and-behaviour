@@ -9,7 +9,7 @@
 
 [^mean-repose]: _repose_: Relief or respite from exertion, toil, trouble, or excitement.
 
-[^mean-meekness]: _meekness_: The quality of being meek; gentleness of spirit; humility.  
+[^mean-meekness]: _meekness_: The quality of being meek; gentleness of spirit; humility.
 
 [^mean-good-stead]: _in good (etc.) stead_: in good (etc.) circumstances.
 
