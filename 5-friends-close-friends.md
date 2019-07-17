@@ -7,11 +7,6 @@ light of your faults cares nothing about you.
 121. Criticizing a friend is like melting an ingot:[^mean-ingot] it will either become
 refined or it will disappear.
 
-[^mean-ingot]: _ingot_: as _ingot-copper_, _ingot-gad_, _ingot-holder_,
-_ingot-mould_, _ingot-silver_, _ingot-steel_, etc. _ingot iron_, iron which
-contains too little carbon to temper and is nearly pure by industrial
-standards, differing from wrought iron in containing no slag.
-
 122. A friend who conceals a secret which concerns you is more disloyal
 towards you than one who tells a secret of yours. For the one who tells your
 secret is simply betraying you, but the one who conceals one from you is
@@ -270,11 +265,6 @@ duty to tell him and to make him face the whole truth. If he changes his
 attitude, that is good. But if he will not change his attitude, you should
 shun his friendship, because this would be vile man with no virtue and no
 noble aspirations.
-
-[^mean-libeller]: _libeller_: One who libels another; one who publishes a
-libel or libels. _Libel_: (n.) In popular use: Any false and defamatory
-statement in conversation or otherwise. (v.) To make libellous accusations or
-statements; to spread defamation.
 
 <!-- TODO I don't understand the last part of the following point -->
 

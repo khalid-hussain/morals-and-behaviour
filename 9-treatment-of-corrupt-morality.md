@@ -173,9 +173,6 @@ source of arrogance in you and you do not use your position to bring justice.
 You should be ashamed of your position; it is a state of
 turpitude[^mean-turpitude], not a state to feel proud of.
 
-[^mean-turpitude]: _turpitude_: Base or shameful character; baseness, vileness; depravity,
-wickedness.
-
 244. If you take pride in your wealth, that is the worst degree of pride.
 Think of all the vile and debauched men who are richer than you and do not
 take pride in something in which they outdo you. You should realize that it is
@@ -191,8 +188,8 @@ and silver because the [future] husbands of your [widowed] wives, who will
 gloat over your demise and ridicule you, will inherit it, while the guilty
 conscience remains yours alone.” [See _Mukhtār min Kalām al-Ḥukamāʾ al-Arbaʿa
 al-Akābir_ in _Dimitri Gutas: Greek Wisdom Literature in Arabic Translation. A
-study of the Graeco--Arabic Gnomologia_, (New Haven: American Oriental
-Society, 1975) p.\ 129.
+study of the Graeco--Arabic Gnomologia_ (New Haven: American Oriental
+Society, 1975), p.\ 129.
 
 245. If you take pride in your beauty, think of the harm it gives rise to,
 which we would be ashamed to put into words. You yourself will be ashamed of
@@ -290,10 +287,13 @@ enough to follow in their footsteps. But they drew no benefit from it.
 
 256. Among those who have been born illegitimate, some have risen to the
 highest positions in control of the world's affairs, for example Ziyād [bin
-Abīh d.\ [ah]{style="font-variant:small-caps;"} 53/672 [ce]{style="font-variant:small-caps;"}] and Abū Muslim al-Khurasānī [d.\ [ah]{style="font-variant:small-caps;"} 129/746 [ce]{style="font-variant:small-caps;"}]. There
-have been others who have attained supreme virtue, like those whom we respect
-too highly to name them in this context. We come nearer to Allāh if we love them
-and model our lives on their glorious achievements.
+Abīh (d.\ [ah]{style="font-variant:small-caps;"} 53/672
+[ce]{style="font-variant:small-caps;"})] and Abū Muslim al-Khurasānī [d.\
+[ah]{style="font-variant:small-caps;"} 129/746
+[ce]{style="font-variant:small-caps;"}]. There have been others who have
+attained supreme virtue, like those whom we respect too highly to name them in
+this context. We come nearer to Allāh if we love them and model our lives on
+their glorious achievements.
 
 257. If you take pride in your physical strength, remember that the mule, the
 donkey, and the bull are stronger than you, and better suited to carrying
@@ -301,11 +301,6 @@ heavy loads. If you feel vain[^mean-vain] about the lightness of your running st
 remember that the dog and hare surpass you in this field. It is extremely
 curious that rational beings feel proud of something in which they are
 surpassed by dumb animals.
-
-[^mean-vain]: _vain_: Given to or indulging in personal vanity; having an
-excessively high opinion of one's own appearance, attainments, qualities,
-possessions, etc.; delighting in, or desirous of attracting, the admiration of
-others; conceited.
 
 258. You should know that a man who has pride or a feeling of superiority
 buried deep in his soul should measure how well he tolerates anxieties,
@@ -620,8 +615,8 @@ mark of fools who will soon be lost.
 yourself, that would be the action of a man without spirit and destined to
 misfortune.
 
-303. Magnanimity[^mean-magnanimity] consists not of mingling with your enemies but of showing
-mercy to them while still not trusting them.
+303. Magnanimity[^mean-magnanimity] consists not of mingling with your enemies
+but of showing mercy to them while still not trusting them.
 
 <!-- TODO Check the following point for consistency and grammar -->
 
@@ -659,8 +654,8 @@ excuse himself by lying, he is practised in it and finds it easy.
 311. The most impartial witness against a man who is given to sincerity is his
 face; it clouds over as soon as he tells a lie or is about to do so.
 
-312. The most implacable[^mean-implacable] witness against a liar is his own tongue; it gets
-twisted and contradicts itself.
+312. The most implacable[^mean-implacable] witness against a liar is his own
+tongue; it gets twisted and contradicts itself.
 
 313. It is a greater catastrophe to have an unfaithful friend than to lose
 him.
@@ -676,15 +671,6 @@ of the lowest class or stable boys. Nobody abuses them more than they abuse
 themselves. More than anybody else they cry scandal when they
 wallow[^mean-wallow] in it in the first place and have acquired the worst of
 reputations by it.
-
-[^mean-guttersnipe]: _guttersnipe_: A child brought up ‘in the gutter’; one of
-the lowest class; an urchin.
-
-[^mean-nadir]: _nadir_: The lowest point (of anything); the place or time of greatest
-depression or degradation.
-
-[^mean-wallow]: _wallow_: To roll the body about indolently or clumsily in or
-as if in water, snow, or mud.
 
 315. Meetings make grudges melt away.^[This is a part of a _ḥadīth_.] One
 would think that when glances meet, hearts grow peaceful. Do not torture
@@ -705,5 +691,3 @@ all illnesses is pain that persists in one organ, always the same.
 317. But to be a well-born spirit, humiliation is less bearable than all the
 misfortunes we have described. On the other hand, it is the one that knavish[^mean-knavish]
 spirits fear the least.
-
-[^mean-knavish]: _knavish_: Roguish, rascally, mischievous, impertinent.

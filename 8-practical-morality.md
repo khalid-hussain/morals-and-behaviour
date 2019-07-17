@@ -72,9 +72,6 @@ According to whether these actions are frequent or rare, the person should be
 treated as more or less inept. Moreover he may be inept in one matter,
 sensible in another, stupid in a third.
 
-[^mean-drivelling]: _drivelling_: Characterized by or given to silly childish
-talk or weak action; idiotic.
-
 190. The opposite of madness is the ability to discern and the ability to make
 free use of sciences and technical knowledge. It is what the ancients called
 the “faculty of reasoning.” There is no middle point between these two
@@ -162,9 +159,6 @@ ignorance.
 202. Ruthlessness gives rise to great vices, such as servility,[^mean-servility] theft, anger,
 adultery, murder, passions, and fear of poverty.
 
-[^mean-servility]: _servility_: Mean submissiveness, degradingly obsequious
-demeanour, cringing.
-
 203. To beg for something that belongs to someone else stems from a tendency
 which is midway between ruthlessness and covetousness.
 
@@ -188,9 +182,6 @@ provenance[^mean-provenance] of the lies.
 [^mean-yourself]: _beside yourself_: In a state of extreme excitement or
 agitation. _They were beside themselves with glee._
 
-[^mean-provenance]: _provenance_: The fact of coming from some particular
-source or quarter; origin, derivation.
-
 208. There is nothing worse than falsehood. For how do you not regard a vice
 which has as one of its varieties disbelief or impiety itself? For all
 disbelief is falsehood. Falsehood is the genus and disbelief is one of its
@@ -210,10 +201,6 @@ so serious as the first group. The third group makes use of language in the
 way of Allāh intended and this is more precious than red sulphur.
 
 210. Endless anxiety awaits a man who is goaded[^mean-goad] or irritated by justice.
-
-[^mean-goad]: _goad_: To assail or prick as with a goad; to irritate; to instigate or
-impel by some form of mental pain or annoyance; to drive by continued
-irritation _into_ or _to_ some desperate action or uncontrolled state of mind.
 
 211. Two kinds of people live a life without care: one kind are extremely
 worthy of praise, the other kind are extremely worthy of criticism. The two

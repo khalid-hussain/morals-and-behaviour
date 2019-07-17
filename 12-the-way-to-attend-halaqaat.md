@@ -35,9 +35,6 @@ verbiage. So do not play games, it is a bad fault.
     upon yourself trouble and dislike, without obtaining the desired
     enlightenment.
 
-    [^mean-palaver]: _palaver_: Applied contemptuously to (what is considered)
-    unnecessary, profuse, or idle talk; ‘jaw.’
-
 336. [Third,] you can riposte[^mean-riposte] as a scholar would, that is to
 say that you can reply to the arguments advanced in a way that refutes them
 clearly. If you are not capable of replying in this way, if you are able only

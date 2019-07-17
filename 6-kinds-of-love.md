@@ -149,9 +149,6 @@ he himself had never known jealousy until he was racked by love. Only then did
 he feel jealous. This man was corrupt by nature, he was a bad character, but
 nevertheless he was perspicacious[^mean-perspicacious] and generous.
 
-[^mean-perspicacious]: _perspicacious_: Of persons, their faculties, etc.: Of
-clear or penetrating mental vision or discernment.
-
 174. There are five stages in the growth of love: first is to think someone
 pleasant, that is, someone thinks of someone else as being nice or is charmed
 by their character. This is part of making friends. Then there is admiration,

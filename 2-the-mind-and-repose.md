@@ -126,9 +126,6 @@ without having at all hastened or delayed the realization of their desires. Is
 there any worse deception than the attitude which we warn against here, and is
 there any greater happiness than the one which we are promoting?
 
-[^mean-perfidious]: _perfidious_: ...deliberately faithless; basely
-treacherous.
-
 28. When we contemplate the duration of this Universe, we see it limited to
 the present moment, which is nothing but the point which separates two
 infinities of time. The past and the future are as meaningless as if they did
