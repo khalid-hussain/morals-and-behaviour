@@ -8,11 +8,7 @@ there is no visible beauty.
 
 177. Allure is beauty of each feature regarded separately. But someone whose
 features are beautiful when considered separately can still appear cold and be
-without piquantness,[^mean-piquantness] charm, seductiveness, or grace.
-
-[^mean-piquantness]: _piquant_: That acts upon the mind as a piquant sauce, or the like, upon the palate;
-that stimulates or excites keen interest or curiosity; pleasantly stimulating
-or disquieting.
+without piquantness,[^mean-piquant] charm, seductiveness, or grace.
 
 178. Seductiveness is the aura of the visible parts; it also goes by the name
 of elegance and attractiveness.

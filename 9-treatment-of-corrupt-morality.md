@@ -21,12 +21,12 @@ and of the aptitudes that they deployed in these shameful acts.
 may Allāh bless them.
 
 227. A man who does not see his own faults is a fallen being; he comes to be
-so from baseness, turpitude, stupidity and feebleness of intelligence, and
-lack of discernment and understanding, to such a point that he is no different
-from vile men and it is not possible to drop lower into degradation than he
-has. Let him save his soul by seeking out his own faults and turning his
-attention to them instead of his pride and the faults of others, the doing of
-which harms him neither in this world or the next.
+so from baseness, turpitude,[^mean-turpitude] stupidity and feebleness of
+intelligence, and lack of discernment and understanding, to such a point that
+he is no different from vile men and it is not possible to drop lower into
+degradation than he has. Let him save his soul by seeking out his own faults
+and turning his attention to them instead of his pride and the faults of
+others, the doing of which harms him neither in this world or the next.
 
 228. I do not know of any benefit to be drawn from hearing about the faults of
 other people except that he who hears about them may learn the lesson, avoid
@@ -43,19 +43,19 @@ should be done to his face and not behind his back.
 230. Then you should say to the boastful man, “Turn around and look at
 yourself. When you have perceived your own faults, you will have found the
 cure for your pride. Do not compare yourself with someone who has more faults
-than you do so that you find it easy to commit faults and to imitate wicked
-people [Do not allow yourself to commit vile things and to imitate wicked
+than you do so that you find it easy to commit faults and imitate wicked
+people. [Do not allow yourself to commit vile things and imitate wicked
 people]. We have already criticized people who imitate good actions slavishly,
 what should we say of people who imitate evil actions slavishly? On the
 contrary, you should compare yourself with someone who is more virtuous than
 you, then your pride will fade away. Then you will be cured of this hateful
 disease which gave birth in you to scorn of other people when there are
 without a doubt better people than you among them. If you scorn them with no
-cause, they will have cause to scorn you, for the Almighty says, [“To condone an
-evil is to commit the same evil.”][^not-exist] “The reward of an evil is an
-evil like it.” [Quran 42:20] So you will expose yourself to scorn, even to deserved disdain,
-and the anger of Allāh and the loss of every trace of virtue that there may
-have been in you.
+cause, they will have cause to scorn you, for the Almighty says, [“To condone
+an evil is to commit the same evil.”][^not-exist] “The reward of an evil is an
+evil like it.” (Quran 42:20) So you will expose yourself to scorn, even to
+deserved disdain and the anger of Allāh, and the loss of every trace of virtue
+that there may have been in you.
 
 [^not-exist]: Typesetter: This phrase exists in the original hard copy of _In Pursuit of Virtue_ as well. I checked for it in the original Arabic from two sources: (1) _Rasāʾil Ibn Ḥazm_, vol.\ 1, #161, p.\ 387 (Beirut: Al-Muʾassasah al-ʿArabiyyah li al-Dirāsāt wa al-Nashr, 1987) revised by Dr. Iḥsān ʿAbbās and (2) _Kitāb al-Akhlāq wa al-Siyar_, #173, p.\ 157 (Beirut: Dār Ibn Ḥazm, 2000) checked by ʿAbd al-Ḥaq al-Turkmānī. These sources did not have this phrase.
 
@@ -72,25 +72,26 @@ mistakes will be more numerous because this is the case with every human being
 except the Prophets, the peace of Allāh be upon them!
 
 233. If you are proud of your good works, remember your times of rebellion,
-your faults, your life in all its aspects. Ah, by Allāh, then you will find that
-they outnumber your good works and it will make your good deeds forgotten. So
-you should worry about this for a long time and replace your pride with self-
-disdain.
+your faults, your life in all its aspects. Ah, by Allāh, then you will find
+that they outnumber your good works and it will make your good deeds
+forgotten. So you should worry about this for a long time and replace your
+pride with self-disdain.
 
 234. If you are proud of your knowledge, you should know that it is no credit
-to you, it is a pure gift that Allāh has granted you. Do not receive it in a way
-that would anger the Almighty because He might wipe it from you by subjecting
-you to an illness which would make you forget all that you have learned and
-stored in your memory. I have been told that this happened to ʿAbd al-Malik
-bin Ṭarīf [d.\ [ah]{style="font-variant:small-caps;"} 400/1009 [ce]{style="font-variant:small-caps;"}],
-who was a scholar, intelligent, moderate, exact in his researches, who had been
-allotted by fate such a prodigious memory that virtually nothing reached his
-ears that had to be said to him twice. Now he undertook a journey by ship and
-experienced such a terrible storm at sea that he lost the memory of most of
-what he had learnt and suffered considerable upset to his mind. He never recovered
-his full intelligence. I myself have been struck by illness. When I got up from
-it I had forgotten all my knowledge except for a few ideas of little value.
-I did not recover it until several years later.
+to you, it is a pure gift that Allāh has granted you. Do not receive it in a
+way that would anger the Almighty because He might wipe it from you by
+subjecting you to an illness which would make you forget all that you have
+learned and stored in your memory. I have been told that this happened to ʿAbd
+al-Malik bin Ṭarīf [d.\ [ah]{style="font-variant:small-caps;"} 400/1009
+[ce]{style="font-variant:small-caps;"}], who was a scholar, intelligent,
+moderate, exact in his researches, who had been allotted by fate such a
+prodigious memory that virtually nothing reached his ears that had to be said
+to him twice. Now he undertook a journey by ship and experienced such a
+terrible storm at sea that he lost the memory of most of what he had learnt
+and suffered considerable upset to his mind. He never recovered his full
+intelligence. I myself have been struck by illness. When I recovered from it,
+I had forgotten all my knowledge except for a few ideas of little value. I did
+not regain it until several years later.
 
 235. You should also know that there are many people greedy for knowledge, who
 devote themselves to reading, to study, and to research but do not reap any
@@ -104,7 +105,7 @@ them.
 everything that you do not know of the different branches of knowledge, the
 aspects that you have specialized in, and that you are proud to have
 penetrated [nevertheless, what you do not know] is greater than what you _do_
-know. You should therefore replace your pride with scorn and self disdain,
+know. You should therefore replace your pride with scorn and self-disdain,
 that would be better. Think of those who are more knowledgeable than you---you
 will find that there are many of them---and may your spirit be humble in your
 own sight.
@@ -133,23 +134,23 @@ will become dependent, as weak as a baby.
 240. It is true that I have never seen less pride than among the brave, and to
 my mind that proves the purity, greatness, and majesty of their spirits.
 
-241. If you are vain because you are strong remember those who may rise
-against you, your peers, your equals, men who may be perverse, feeble, and
+241. If you are vain because you are strong, remember those who may rise
+against you, your peers, your equals, and men who may be perverse, feeble, and
 vile. But you should remember that they are equal to you in the strength you
 possess even if you would be ashamed to be like them because of their extreme
-baseness, ignominy of the souls, their morals, their origins. You should
+baseness, ignominy of the souls, their morals, and their origins. You should
 despise any honours which make you the colleague of such men as I have just
-described, even if you owned the whole world and you had no opponent---
-something that is far from likely, since no one has ever heard tell of one man
-owning the whole inhabited world, even when it was still small and of limited
-dimensions compared with the uninhabited areas. And just think how tiny it is
-compared with the celestial sphere that surrounds the universe!
+described, even if you owned the whole world and you had no
+opponent---something that is far from likely, since no one has ever heard tell
+of one man owning the whole inhabited world, even when it was still small and
+of limited dimensions compared with the uninhabited areas. And just think how
+tiny it is compared with the celestial sphere that surrounds the universe!
 
 242. Remember what was said by Ibn al-Sammāk [Abū al-ʿAbbās Muḥammad ibn
 Ṣubayḥ, d.\ [ah]{style="font-variant:small-caps;"} 183/799
 [ce]{style="font-variant:small-caps;"}] to al-Rashīd when the latter asked to
-be brought a cup of drinking water: “Commander of the faithful, if this drink
-were refused you, how much would you offer to get it?”
+be brought a cup of drinking water: “Commander of the faithful, if you were
+refused this drink, how much would you offer to get it?”
 
     “My entire kingdom,” replied al-Rashīd.
 
@@ -159,7 +160,7 @@ were refused you, how much would you offer to get it?”
 
     “My entire kingdom.”
 
-    “O lord of the Believers, how can you boast of a kingdom which is not
+    “O Commander of the faithful, how can you boast of a kingdom which is not
     worth as much as a little urine and a few mouthfuls of water?”^[See Ibn
     Khallikān, _Wafayāt_, vol.\ 2, p.\ 296.] Ibn al-Sammāk was right, Allāh grant
     him peace.
@@ -175,7 +176,7 @@ turpitude[^mean-turpitude], not a state to feel proud of.
 [^mean-turpitude]: _turpitude_: Base or shameful character; baseness, vileness; depravity,
 wickedness.
 
-244. If you take pride in your wealth, that is the worse degree of pride.
+244. If you take pride in your wealth, that is the worst degree of pride.
 Think of all the vile and debauched men who are richer than you and do not
 take pride in something in which they outdo you. You should realize that it is
 stupid to take pride in possessions; riches are burdens which bring no benefit
@@ -200,7 +201,7 @@ enough.
 
 246. If the praises heaped on you by your friends make you vain, think of the
 criticism that your enemies direct at you. Then your pride will melt away. And
-if you have no enemies than you have no good in you at all, for there is
+if you have no enemies, then you have no good in you at all, for there is
 nothing lower on the scale of values than the man who has no enemies. That
 position is reserved for people who have not received from Allāh a single favour
 worth envying (Allāh preserve us from being in this position!) If you think that
@@ -228,7 +229,7 @@ of the spleen. I became anguished, peevish, impatient, and touchy, and I
 reproached myself for this, not being willing to face the fact that my
 character had changed. I was extremely surprised that I had lost my good
 characteristics. In this way I had good proof that the spleen is the centre of
-good temper, and that when it is diseased bad temper is the result.
+good temper, and that when it is diseased, bad temper is the result.
 
 249. If you take pride in your ancestry, that is even worse than everything we
 have mentioned so far, since it is pride in something that has no real
@@ -236,26 +237,29 @@ usefulness for you in this world or the next. Just ask yourself whether your
 ancestry protects you against hunger, or dishonour, or whether it does you any
 good in the next world.
 
+<!-- TODO Double check the following with the book -->
+
 250. Next, consider those who are equally well descended, or even better,
-those who are descended from the Prophets (Peace be upon them) or their
-successors, from the virtuous companions of Muḥammad or from scholars; then
-remember those who are descended from non-Arab kings, the Khosrau,^[Khosrau or
-Chosroes is a designation of the ancient Persian kings in general.] and
-Caesars, those who are descended from the Tubbaʿ and the various kings of
-Islam. Consider what remains of them and what has survived. Observe those who
-boast of their ancestry as you do of yours, and you will that most of them are
-as ignoble as dogs. You will find that they are low, extremely vile,
-unreliable; you will find that they are adorned with the very worst of
-characteristics.
+those who are descended from the Prophets !s[them] or their successors, from
+the virtuous companions of Muḥammad or from scholars; then remember those who
+are descended from non-Arab kings, the Khosrau,^[Khosrau or Chosroes is a
+designation of the ancient Persian kings in general.] and Caesars, those who
+are descended from the Tubbaʿ and the various kings of Islam. Consider what
+remains of them and what has survived. Observe those who boast of their
+ancestry as you do of yours, and you will see that most of them are as ignoble
+as dogs. You will find that they are low, extremely vile, and unreliable; you will
+find that they are adorned with the very worst of characteristics.
 
 251. Therefore, you should not boast of something in which such people are
 your equals or even superior to you. The ancestors which make you so proud may
-have been debauched, drunken, licentious, frivolous, and stupid. Circumstances
-allowed them to become despots and tyrants; they left an infamous record which
-will perpetuate their shame for ever. Their crime is immense and their
-repentance shall be immense on the day of the Last Judgment. Since this is the
-case, remember that you are taking pride in something that shares in vice,
-ignominy, shame, and dishonour; it is not something to be admired.
+have been debauched,[^mean-debauched] drunken, licentious,[^mean-licentious]
+frivolous,[^mean-frivolous] and stupid. Circumstances allowed them to become
+despots[^mean-despots] and tyrants; they left an infamous record which will
+perpetuate their shame for ever. Their crime is immense and their
+repentance[^mean-repentance] shall be immense on the day of the Last Judgment.
+Since this is the case, remember that you are taking pride in something that
+shares in vice, ignominy,[^mean-ignominy] shame, and dishonour; it is not
+something to be admired.
 
 252. If you are proud of your descent from virtuous ancestors, how empty their
 virtue will leave your hands if you yourself are not virtuous! How little
@@ -265,14 +269,14 @@ Paradise for a dwelling place and letting His angels bow down before him. But
 how little is the advantage they have since all the vices dwell in mankind and
 all the wicked impious people in the world are among their number.
 
-253. When the wise men considers that the virtues of his ancestors do not
-bring him any closer to his Lord the Almighty and do not win him any favour
-which he could not have gained by luck in a competition or by his own virtue,
-not by his wealth, what sense is there in taking pride in a descent which is
-of no use to him? Someone who feels proud of it, is he not like someone who
-feels proud of his neighbour's wealth, or a third person's glory, or another's
-horse because it once wore a bridle that had been his property? It is, as
-people say, “Like a eunuch who takes pride in his father's potency.”
+253. When the wise man considers that the virtues of his ancestors do not
+bring him any closer to his Lord Almighty and do not win him any favour which
+he could not have gained by luck in a competition or by his own virtue, not by
+his wealth, what sense is there in taking pride in a descent which is of no
+use to him? Someone who feels proud of it, is he not like someone who feels
+proud of his neighbour's wealth, or a third person's glory, or another's horse
+because it once wore a bridle that had been his property? It is, as people
+say, “Like a eunuch who takes pride in his father's potency.”
 
 254. If your pride leads you to boast, you will be doubly guilty, because your
 intelligence will have shown that it is incapable of controlling your pride.
@@ -281,7 +285,7 @@ intelligence will have shown that it is incapable of controlling your pride.
 is like if you have no good reason. Nuḥ's son, Ibrāhīm's father, and Abū
 Lahab, the uncle of the Prophet---May Allāh grant him blessings, as well as to
 Nuḥ and Ibrāhīm---these were the closest relations of Allāh's most virtuous
-creatures out of all the sons of Ādam. To achieve nobility it would have been
+creatures out of all the sons of Ādam. To achieve nobility, it would have been
 enough to follow in their footsteps. But they drew no benefit from it.
 
 256. Among those who have been born illegitimate, some have risen to the
@@ -314,12 +318,14 @@ capable of endurance, let him remember that this makes him no more exceptional
 that those we have just mentioned; he may be inferior to them, or their equal,
 but he is not their superior.
 
+<!-- TODO I don't understand the last sentence. Double check with the Arabic. -->
+
 259. Next, let him consider his conduct. Does he act fairly or unfairly when
 he makes use of the gifts which Allāh has granted him: money, power, slaves,
 health, or fame? If he finds that he has failed in his obligation to feel
 grateful towards the Almighty Benefactor, if he finds that he is at the
 extreme edge of fairness, bordering on injustice, he should remember that
-people who are just and grateful and honest have been more favoured than he
+people who are just, grateful, and honest have been more favoured than he
 and are more virtuous than he. If he considers that he does love justice let
 him remember that a just man is far from being proud because he knows the real
 importance of things, the real value of characters, and he loves the happy
@@ -353,13 +359,6 @@ proud of his own judgment and becomes arrogant; another is self-satisfied and
 becomes complacent. Another, full of his own reputation and high standing,
 becomes self-important and haughty.
 
-[^mean-presumptuousness]: _presumptuousness_: Characterized by presumption in opinion or conduct;
-unduly confident or bold; arrogant, presuming; forward, impertinent.
-
-[^mean-haughtiness]: _haughtiness_: High in one's own estimation; lofty and
-disdainful in feeling or demeanour; proud, arrogant, supercilious. (Of
-persons, their action, speech, etc.)
-
 263. The lowest degree of pride is when you refrain from laughing when
 laughter is not out of place; you avoid quick movements and responses except
 when it is unavoidable in daily life. However, such a fault is very serious.
@@ -368,15 +367,15 @@ time-wasting nonsense would even be a praiseworthy virtue. But these people
 only behave like this out of disdain for others and from pride in themselves,
 and so they deserve only blame, for deeds are of value according to the
 intentions of the doer, and every being shall be rewarded according to what he
-intended to do.^[This is a part of a ḥadīth reported by ʿUmar ibn al-Khaṭṭāb
-and related by al-Bukhārī and Muslim.]
+intended.^[This is a part of a _ḥadīth_ reported by ʿUmar ibn al-Khaṭṭāb and
+related by al-Bukhārī and Muslim.]
 
 264. Next, a more serious case is when you are not clever enough to keep pride
 within its rightful limits, when your spirit is too weak, and you reach the
 point of showing disdain and scorn towards other people by your words and
 deeds. Then, going even further, when your sense and your spirit are even
 weaker, you reach the point of desiring to harm people with words and with
-blows, to give them orders, to commit abuses, to tyrannise them, to exact where
+blows, to give them orders, to commit abuses, to tyrannize them, to exact where
 possible, obedience and submission from them. When he is unable to do this,
 the proud man sings his own praises and contents himself with criticizing
 other people and mocking them.
@@ -398,7 +397,7 @@ noble descent, nor fortune, which might give him abusive authority.
     scientific knowledge might imagine himself to be a perfect expert. Someone
     whose genealogy has [obscure] bad origins and whose ancestors were not even
     great tyrants is more infatuated with himself than if he were the son of the
-    [mighty] Pharaoh of the forces.^[This is a Quranic expression, (Quran 89:10)]
+    [mighty] Pharaoh of the forces.^[This is a Quranic expression. See (Quran 89:10)]
     If he has some value as a warrior he thinks he can put ʿAlī [bin Abī Ṭālib] to
     flight, capture al-Zubayr [bin al-ʿAwwām] and slay Khālid [bin al- Walīd]. If
     he is at all notorious, he holds Alexander the Great in small esteem. If he is
@@ -407,16 +406,16 @@ noble descent, nor fortune, which might give him abusive authority.
     the sun by its horns. However, pride among such men, even if they are
     admirable fellows, is not common.
 
-    However, if it is common among those who have a iota of knowledge, nobility,
+    However, it is common among those who have a iota of knowledge, nobility,
     fortune, reputation, or courage. They are dragged along by others, and they
     trample on those who are weaker than themselves. Although they are perfectly
     aware that they themselves are lacking in all good qualities and have none
     whatsoever, they are still haughty and insolent.
 
-266. I took the opportunity of asking one such man---gently and tactfully---
-what was the cause of his sense of superiority and his disdain of others. The
-only answer I could get was this: “I am a free man,” he said, “I am nobody's
-slave.”
+266. I took the opportunity of asking one such man---gently and
+tactfully---what was the cause of his sense of superiority and his disdain of
+others. The only answer I could get was this: “I am a free man,” he said, “I
+am nobody's slave.”
 
     I replied “Most people that one meets share this same quality with you.
     Like you, they are free men, except for a certain number of slaves who are
@@ -431,10 +430,10 @@ their intentions. I came to the conclusion that they imagined themselves to
 have a superior intelligence and perception and a good sense of judgment.
 [They believed that] if fate had allowed them to make use of these talents,
 they would have had immense possibilities, they would have known how to direct
-powerful kingdoms and their merit would have appeared superior to that of
-other men. If they had had a fortune they would have been very good at
-spending it. And this is the angle by which vanity has taken possession of
-them and pride has penetrated their souls.
+powerful kingdoms, and their merit would have appeared superior to that of
+other men. If they had a fortune, they would have been very good at spending
+it. And this is the angle by which vanity has taken possession of them and
+pride has penetrated their souls.
 
 268. Here one might make curious digressions and [point out] certain
 paradoxes. It is a fact that no virtue except that of intelligence and
@@ -443,35 +442,37 @@ one is completely sure that one has attained perfection in it, the more one
 lacks it.
 
     This is so much the case that one will see a raving lunatic or an
-    inveterate sot making fun of a sane man. A mentally deficient person will
-    mock men who are wise, virtuous, and knowledgeable. Little boys shout
-    after grown men. Men who are stupid and insolent disdain men who are
-    intelligent and reserved. Even the weakest women think that the spirit and
-    opinions of great men lack vigour. In sum, the weaker the intelligence the
-    more man imagines himself well endowed and in possession of excellent
-    powers of perception. This is not at all the case with other qualities:
-    someone who has none of them knows that he lacks them. Error only arises
-    in a man who has a small portion, even if it is tiny, because he then
-    imagines, if he has limited powers of perception, that he possesses this
-    quality to the highest degree.
+    inveterate sot[^mean-inveterate-sot] making fun of a sane man. A mentally
+    deficient person will mock men who are wise, virtuous, and knowledgeable.
+    Little boys shout after grown men. Men who are stupid and insolent disdain
+    men who are intelligent and reserved. Even the weakest women think that
+    the spirit and opinions of great men lack vigour. In sum, the weaker the
+    intelligence the more man imagines himself well endowed and in possession
+    of excellent powers of perception. This is not at all the case with other
+    qualities: someone who has none of them knows that he lacks them. Error
+    only arises in a man who has a small portion, even if it is tiny, because
+    he then imagines---if he has limited powers of perception---that he
+    possesses this quality to the highest degree.
 
 269. The cures for pride among such people are poverty and obscurity; there is
 nothing more effective, for if not awed they are bad and a considerable
 nuisance to other men. You find them doing nothing but discrediting people,
 attacking their reputations, mocking at everybody, scorning all rights, and
 permitting themselves every indiscretion. They go to the limit, to the point
-of risking injury to themselves, and entering into dispute, they even come to
+of risking injury to themselves, and entering into dispute. They even come to
 blows and punches for the most futile cause that presents itself.
 
 270. It can happen that pride lies hidden in the depths of a man's heart and
 does not appear until he meets with some success or acquires some fortune and
 his good sense can neither control nor conceal this feeling.
 
-271. Something that I have seen that is very curious, among certain weak
-creatures, is that they are so dominated by a deep love for their grandchild
+<!-- TODO Reconsider "in all self-esteem." -->
+
+271. Something that I have seen that is very curious---among certain weak
+creatures---is that they are so dominated by a deep love for their grandchild
 or their wife that they describe them in public as extremely intelligent. They
 go as far as to say, “She is more intelligent than me and I regard her advice
-as a blessing.” They praise her beauty, her charm, her vivacity---this often
+as a blessing.” They praise her beauty, her charm, her vivacity[^mean-vivacity]---this often
 happens with very feeble men---and do it so much and so well that if they
 wished to find her a husband they need say nothing more in order to make
 someone desire her from their description. Such behaviour is only found among
@@ -520,7 +521,7 @@ sort, the ignorant.
 man; the latter thinks that he is as wicked as himself. Thus I have seen vile
 creatures imagine in their vile souls that everybody was like themselves; they
 would never believe that it was possible, in one way or another, not to have
-their faults. There is no character more corrupt, there is none more remote
+their faults. There is no character more corrupt; there is none more remote
 from being virtuous and good. Anyone who is in this state cannot hope to be
 cured at all. Allāh help us in all matters.
 
@@ -543,11 +544,12 @@ present excuses to someone. In these two cases, it is permissible to list past
 benefits and recall gifts. In all cases except these two, it would be in the
 worst possible taste.
 
-286. We should not criticise someone who has a natural tendency towards a vice
----even if it were the worst possible fault, the greatest of vices---as long as
-he does not let it appear in anything he says or does. He would almost deserve
-more commendation than someone who naturally inclines towards virtue, for it
-takes a strong and virtuous mind to control a corrupt natural inclination.
+286. We should not criticise someone who has a natural tendency towards a
+vice---even if it were the worst possible fault, the greatest of vices---as
+long as he does not let it appear in anything he says or does. He would almost
+deserve more commendation than someone who naturally inclines towards virtue,
+for it takes a strong and virtuous mind to control a corrupt natural
+inclination.
 
 287. To attack a man's conjugal honour is worse than to attack his life.
 
@@ -575,11 +577,11 @@ regards it as the worst of crimes, must have an ignoble character, a mean
 spirit, and a soul worthy of disdain.
 
 293. Anyone who does not know where to find virtue should rely on the
-commandments of Allāh and His Prophet---Peace of Allāh be upon him. All the
-virtues are contained in these commandments.
+commandments of Allāh and His Prophet !pbuh. All the virtues are contained in
+these commandments.
 
 294. It is possible to bring about something dangerous by trying to guard
-against it. It is possible to let out a secret by trying to hard to keep it.
+against it. It is possible to let out a secret by trying hard to keep it.
 Sometimes it is better to avoid a subject than to raise doubts by dwelling on
 it. In each of these cases the harm comes from overdoing it and going beyond
 the boundaries of the happy medium.
@@ -597,9 +599,9 @@ and vice as awful but easy to commit.
 298. A person who wishes to be fair should put himself in his adversary's
 position. He will then see the unfairness of his own behaviour.
 
-299. The definition of strictness consists of being able to distinguish a
-friend from an enemy. The height of stupidity and weakness is the inability to
-distinguish one's enemy from one's friend.
+299. The definition of strictness consists of being able to distinguish friend
+from foe. The height of stupidity and weakness is the inability to distinguish
+one's foe from one's friend.
 
 300. Do not deliver your enemy to an oppressor, and do not oppress him
 yourself. Treat him as you would treat your friend, except for trusting him.
@@ -618,8 +620,10 @@ mark of fools who will soon be lost.
 yourself, that would be the action of a man without spirit and destined to
 misfortune.
 
-303. Magnanimity consists not of mingling with your enemies but of showing
+303. Magnanimity[^mean-magnanimity] consists not of mingling with your enemies but of showing
 mercy to them while still not trusting them.
+
+<!-- TODO Check the following point for consistency and grammar -->
 
 304. How many men have we not seen take pride in their possessions and so be
 lost! Guard against this attitude, it is really harmful and completely
@@ -635,8 +639,8 @@ inflicted by his fellow man. The harm done by man to man is worse than the
 harm done by furious beasts and poisoned vipers for you cannot protect
 yourself at all against the human race.
 
-307. Hypocrisy is the thing which is most widespread among people and it is
-amazing to see that, despite this, people only like those who treat them
+307. Hypocrisy is the thing which is most widespread among people. Despite
+this, it is amazing to see that people only like those who treat them
 hypocritically.
 
 308. If we said that characters are round like a globe because their extremes
@@ -645,17 +649,17 @@ of the two cries for sorrow; too much love makes one commit as many successive
 faults as excessive hatred does, and can cause estrangement if the loved one
 lacks patience and fairness.
 
-309. If a man is dominated by a natural passion, then, however firm and
+309. If a man is dominated by a natural passion, then however firm and
 sensible he is in other ways, he can be overcome if you attack this weak
 point.
 
-310. An over-suspicious mind learns to tell lies: since he often needs to
+310. An over-suspicious mind learns to tell lies. Since he often needs to
 excuse himself by lying, he is practised in it and finds it easy.
 
 311. The most impartial witness against a man who is given to sincerity is his
 face; it clouds over as soon as he tells a lie or is about to do so.
 
-312. The most implacable witness against a liar is his own tongue; it gets
+312. The most implacable[^mean-implacable] witness against a liar is his own tongue; it gets
 twisted and contradicts itself.
 
 313. It is a greater catastrophe to have an unfaithful friend than to lose
@@ -666,8 +670,8 @@ those who are most apt to commit them. This can clearly be seen in the
 insolence offered by guttersnipes[^mean-guttersnipe] and the insults of vile
 men who have reached the nadir[^mean-nadir] of vileness in practising vile
 professions. For example, those men and women who earn a living by playing the
-flute, sweeping out farmyards, workings as servants in abattoirs, those who
-frequent the [drinking houses] brothel authorized as meeting places of people
+flute, sweeping out farmyards, working as servants in abattoirs, and those who
+frequent the [drinking houses] brothel, authorized as meeting places of people
 of the lowest class or stable boys. Nobody abuses them more than they abuse
 themselves. More than anybody else they cry scandal when they
 wallow[^mean-wallow] in it in the first place and have acquired the worst of

@@ -55,13 +55,13 @@ compare yourself with others in matters of religion, knowledge, and virtue,
 look at people who are better than yourself.
 
 41. The mysterious branches of knowledge are like a strong drug which benefits
-a strong body but damages a weak one. In the same way, the esoteric branches
+a strong body but damages a weak one. In the same way, the esoteric[^mean-esoteric] branches
 of knowledge enrich a strong mind, and refine it, purifying it of its flaws,
 but destroy a weak mind.
 
 42. If a madman threw himself as deeply into good sense as he throws himself
-as deeply into madness, he would surely be wiser than al-Ḥasan al-Baṣrī[^basri],
-Plato of Athens[^plato], and Vuzurgmihr the Persian.[^vuzurgmihr]
+as deeply into madness, he would surely be wiser than al-Ḥasan al-Baṣrī,[^basri]
+Plato of Athens,[^plato] and Vuzurgmihr the Persian.[^vuzurgmihr]
 
 43. Intelligence has its limits; it is useless unless it is based upon the
 guidance of religion or on good fortune in this world.
@@ -85,10 +85,9 @@ ruin everything and believe that they are helping.
 
 48. Anyone who is seeking happiness in the Hereafter, wisdom in this world,
 the best way to behave, the sum of all moral qualities, and the practice of
-all the virtues, should take as his model Muḥammad, the Prophet of Allāh
-(Peace be upon him) and emulate as far as possible the Prophet's morals and
-behaviour. May Allāh help us to take him as an example, by His grace, amīn
-[amīn]!
+all virtues, should take as his model Muḥammad, the Prophet of Allāh !pbuh
+and emulate as far as possible the Prophet's morals and behaviour. May Allāh
+help us to take him as an example, by His grace, amīn [amīn]!
 
 49. The ignorant have annoyed me on two occasions in my lifetime. First, when
 they spoke of things they did not know, at a time when I was equally ignorant;
@@ -115,10 +114,8 @@ friend.
 
 53. Anyone who is seeking fame, fortune, and pleasure will keep company only
 with those people who resemble mad dogs and sly foxes: they will take for
-their travelling companions only people [inimical[^mean-inimical] to his belief] who are
-cunning and depraved in nature.
-
-[^mean-inimical]: _inimical_: Adverse or injurious in tendency or influence; harmful, hurtful.
+their travelling companions only people [inimical[^mean-inimical] to his
+belief] who are cunning and depraved in nature.
 
 54. The usefulness of the knowledge [of good] in the practice of virtue is
 considerable: anyone who knows the beauty of virtue will practise it, though
@@ -129,22 +126,38 @@ avoid it. From this premise it necessarily follows that knowledge has a part
 in every virtue, and ignorance has a part in every vice. A man who has had no
 instruction in the knowledge [of good] will not practise virtue unless he has
 an extremely pure nature, a virtuous constitution. It is the particular state
-of the Prophets (peace and the blessings of Allāh be upon them!) for Allāh has
-taught them virtue in its entirety, without them having learnt it from men.
+of the Prophets !s[them] for Allāh has taught them virtue in its entirety,
+without them having learnt it from men.
 
 55. It is true that I have seen among the common people some who, by their
 excellent behaviour and morals, were not surpassed by any wise man, any
 scholarly, self-controlled man. But this is very rare. And I have seen men who
 have studied the different branches of knowledge, who have a good knowledge of
-the messages of the Prophets (Peace be upon them) and the advice of the
-philosophers and who nevertheless surpass the most wicked in their bad
-behaviour, their depravity, both internal and external. These are the worst of
-all creatures. This is very common and I therefore perceive that these two
-[moral attitudes] are a favour which is granted or withheld by Allāh Almighty.
+the messages of the Prophets !pbuh and the advice of the philosophers and who
+nevertheless surpass the most wicked in their bad behaviour, their depravity,
+both internal and external. These are the worst of all creatures. This is very
+common and I therefore perceive that these two [moral attitudes] are a favour
+which is granted or withheld by Allāh Almighty.
 
-[^basri]: Al-Ḥasan al-Baṣrī ([ah]{style="font-variant:small-caps;"} 100/718 [ce]{style="font-variant:small-caps;"}) was a great Muslim traditionalist and Ṣūfī ascetic. In the history of Islām he looms large for his literary writings and moral sayings. See Ibn Khallikān, _Wafayāt_ (Cairo, Bulaq) vol.\ 1, p.\ 227. He was born and lived in Basra, southern Iraq.
+<!-- TODO Check (Cairo, Bulaq) format -->
 
-[^plato]: Plato, the famous Greek philosopher, d.\ 347 [bc]{style="font-variant:small-caps;"}, disciple of Socrates, visited Egypt and lived there for one year and learned before Egyptian wise men in ʿAyn Shams. Jamāl al-Dīn Abū al-Ḥasan al-Qafṭī, _Tārikh al-Ḥukamāʾ_, edited by Julius Lippert (Leipzig, 1903) p.\ 16, also Abū Sulaymān al-Manṭiqī al-Sijistānī, _Ṣiwān al-Ḥikmah wa Thalāth Rasāʾil_, edited by A. Badawī, (Tehran, 1974) p.\ 84, 128ff.
+[^basri]: Al-Ḥasan al-Baṣrī ([ah]{style="font-variant:small-caps;"} 100/718
+[ce]{style="font-variant:small-caps;"}) was a great Muslim traditionalist and
+Ṣūfī ascetic. In the history of Islām he looms large for his literary
+writings and moral sayings. See Ibn Khallikān, _Wafayāt_ (Cairo, Bulaq) vol.\
+1, p.\ 227. He was born and lived in Basra, southern Iraq.
 
-[^vuzurgmihr]: Vuzurgmihr was the minister of the ancient Persian king Khusrau Nushirwan, and his son's tutor. He is famous for his wise sayings, which are often quoted in Arabic sources, and he is said to have been the first to translate the Indian text _Kalila wa Dimna_ into the Persian language.
+[^plato]: Plato, the famous Greek philosopher, d.\ 347
+[bc]{style="font-variant:small-caps;"}, disciple of Socrates, visited Egypt
+and lived there for one year and learned before Egyptian wise men in ʿAyn
+Shams. Jamāl al-Dīn Abū al-Ḥasan al-Qafṭī, _Tārikh al-Ḥukamāʾ_, edited by
+Julius Lippert (Leipzig, 1903) p.\ 16, also Abū Sulaymān al-Manṭiqī
+al-Sijistānī, _Ṣiwān al-Ḥikmah wa Thalāth Rasāʾil_, edited by A. Badawī,
+(Tehran, 1974) p.\ 84, 128ff.
+
+[^vuzurgmihr]: Vuzurgmihr was the minister of the ancient Persian king,
+Khusrau Nushirwan, and his son's tutor. He is famous for his wise sayings,
+which are often quoted in Arabic sources, and he is said to have been the
+first to translate the Indian text _Kalila wa Dimna_ into the Persian
+language.
 

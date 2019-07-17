@@ -29,28 +29,29 @@ angry when he found himself alone fighting for a cause, and he let nothing
 prevent him from anger when it was a question of Allāh, the Almighty.
 
 184. The perseverance which consists of keeping one's word and the
-perseverance which is nothing but obstinacy are so alike that they can only be
-told apart by someone who knows what different characters are like. The
-difference between the two kinds of perseverance is that obstinacy clings to
-error. Its actions are the actions of someone who persists in doing what he
-has decided upon when he knows that he is wrong, or when he does not know for
-sure whether he is right or wrong. Such obstinacy is wrong. The opposite of
-obstinacy is fairness. As for the kind of perseverance which consists of
-keeping one's word, its actions are the actions of someone who is right, or
-who believes himself to be right, not having seen any reason not to believe
-this. This quality is worthy of praise, and its opposite is inconstancy. Only
-the first of the two kinds of perseverance [obstinacy] is wrong, because it
-makes you lose the habit of thinking about a matter once it has been decided,
-and you stop wondering whether the decision is right or wrong.
+perseverance which is nothing but obstinacy[^mean-obstinacy] are so alike that
+they can only be told apart by someone who knows what different characters are
+like. The difference between the two kinds of perseverance is that obstinacy
+clings to error. Its actions are the actions of someone who persists in doing
+what he has decided upon when he knows that he is wrong, or when he does not
+know for sure whether he is right or wrong. Such obstinacy is wrong. The
+opposite of obstinacy is fairness. As for the kind of perseverance which
+consists of keeping one's word, its actions are the actions of someone who is
+right, or who believes himself to be right, not having seen any reason not to
+believe this. This quality is worthy of praise, and its opposite is
+inconstancy.[^mean-inconstancy] Only the first of the two kinds of
+perseverance [obstinacy] is wrong, because it makes you lose the habit of
+thinking about a matter once it has been decided, and you stop wondering
+whether the decision is right or wrong.
 
 185. Good sense is defined as the practise of obedience to Allāh and the
-practice of piety and virtues. This definition implies avoidance of
-rebellion and vices. Allāh has stated this clearly more than once in His
-book (the Quran), emphasizing that anyone who disobeys Him is acting
-unreasonably. Speaking of certain people, the Almighty has said, “They will
-say: if we had listened, if we had understood, we would not be among the
-damned,” [Quran 67:10] and He has confirmed their words as true by saying, “They
-have recognized their own sins, so misfortune be to the damned.” [Quran 67:11]
+practice of piety and virtues. This definition implies avoidance of rebellion
+and vices. Allāh has stated this clearly more than once in His book (the
+Quran), emphasizing that anyone who disobeys Him is acting unreasonably.
+Speaking of certain people, the Almighty has said, “They will say: if we had
+listened, if we had understood, we would not be among the damned,” (Quran
+67:10) and He has confirmed their words as true by saying, “They have
+recognized their own sins, so misfortune be to the damned.” (Quran 67:11)
 
 186. Stupidity is defined as the practice of disobedience to Allāh and the
 practice of vices.
@@ -59,7 +60,8 @@ practice of vices.
 saying, that is lunacy and excess of bile.
 
 188. Stupidity is opposite of good sense, as we have shown above; and there is
-no middle point between good sense and stupidity unless it is ineptitude.
+no middle point between good sense and stupidity unless it is
+ineptitude.[^mean-ineptitude]
 
 189. The definition of ineptitude is to work and speak in a way that neither
 serves religion nor the world nor a healthy morality. This is neither
@@ -90,7 +92,7 @@ their fortunes, flatter their rulers, and protect their own standing. This
 characteristic is called astuteness, and the opposite of it is intelligence
 and honesty.
 
-192. However if, in order to achieve these same ends, someone acted with
+192. However, if in order to achieve these same ends, someone acted with
 reserve and dignity, this would be firmness. Its opposite is weakness or
 wasting.
 
@@ -104,17 +106,17 @@ courage. Because a trustworthy man thinks it is unfair to deceive anyone who
 has put his trust in him or anyone who has done him a good deed, he acts with
 fairness. Because he wishes to help to repair the injustices of fate as
 quickly as possible, he acts with generosity. Because he has decided to bear
-without flinching all the likely consequences of his fidelity, he is
-courageous.
+without flinching all the likely consequences of his fidelity,[^mean-fidelity]
+he is courageous.
 
-195. The virtues have four roots which form all virtue. They are: fairness or
+195. Virtues have four roots which form all of virtue. They are: fairness or
 justice, intelligence, courage, and generosity.
 
-196. The vices have four roots which are the basis of all faults and which are
+196. Vices have four roots which are the basis of all faults and which are
 the opposite of the constituents of the virtues. They are: unfairness,
 ignorance, cowardice, and greed.
 
-197. Honesty and temperance are two kinds of fairness and generosity.
+197. Honesty and temperance[^mean-temperance] are two kinds of fairness and generosity.
 
     Here are some lines of my poetry dealing with morals. Abū Muḥammad Alī bin Aḥmad says:
 
@@ -149,7 +151,7 @@ ignorance, cowardice, and greed.
 198. Disinterest as a human quality is a virtue which is made up of courage
 and generosity. The same is true of patience.
 
-199. Magnanimity is one kind of courage. It does not have an opposite.
+199. Magnanimity[^mean-magnanimity] is one kind of courage. It does not have an opposite.
 
 200. Moderation is a virtue which is made up of generosity and fairness.
 
@@ -165,6 +167,8 @@ demeanour, cringing.
 
 203. To beg for something that belongs to someone else stems from a tendency
 which is midway between ruthlessness and covetousness.
+
+<!-- TODO Consider revising the following point -->
 
 204. If we make a distinction between ruthlessness and covetousness, it is
 only because ruthlessness reveals the covetousness that is hidden in the soul.
@@ -187,12 +191,12 @@ agitation. _They were beside themselves with glee._
 [^mean-provenance]: _provenance_: The fact of coming from some particular
 source or quarter; origin, derivation.
 
-208. There is nothing worse than falsehood. For how do you not regard a vice which
-has as one of its varieties disbelief or impiety itself? For all disbelief is
-falsehood. Falsehood is the genus and disbelief is one of its species.
-Falsehood arises from wickedness, cowardice, and ignorance. Truly, cowardice
-debases the soul. A liar has a vile soul which is far away from achieving a
-greatness worthy of praise.
+208. There is nothing worse than falsehood. For how do you not regard a vice
+which has as one of its varieties disbelief or impiety itself? For all
+disbelief is falsehood. Falsehood is the genus and disbelief is one of its
+species. Falsehood arises from wickedness, cowardice, and ignorance. Truly,
+cowardice debases the soul. A liar has a vile soul which is far away from
+achieving greatness worthy of praise.
 
 209. If we categorize people by the way of their speaking---and, remember, it
 is speech that distinguishes mankind from donkeys, dogs, and vermin---we can
@@ -245,7 +249,7 @@ vanities of this world which so worry the rest of mankind.
 contemporaries by doing anything which might harm you in this world or the
 next---however little---for you will reap nothing but regret, at a time when
 regret will not help you at all. The man you helped will not thank you. On the
-contrary, he will rejoice at your misfortune, or, at least---you may be
+contrary, he will rejoice at your misfortune, or at least---you may be
 certain---he will be indifferent to the bad results [of your action] and your
 sad ending. But guard against contradicting the speaker and opposing your
 contemporaries to the extent that you harm yourself in this world or the next,
@@ -253,17 +257,19 @@ however little. You will reap only loss, hostility, and enmity. You may even
 allow yourself to take sides, and you may suffer considerable trials which
 will be of no benefit [to you] whatsoever.
 
+<!-- TODO Double check "injustice" at the end. -->
+
 217. If you have to choose between annoying people or annoying the Almighty,
 and if there is no way out except either to run away from the right or to run
 away from the people, you should choose to annoy the people and run away from
 them, but do not annoy your Lord, do not run away from injustice.
 
-218. You should imitate the Prophet (Peace be upon him) when he preached to
-the ignorant, the sinful, and the wicked. Anyone who preaches drily[^mean-drily] and
+218. You should imitate the Prophet !pbuh when he preached to the ignorant,
+the sinful, and the wicked. Anyone who preaches drily[^mean-drily] and
 cheerlessly is doing wrong and is not applying the Prophet's method. Such
 preaching would usually only drive his audience to persist in their wicked
-ways, from obstinacy, anger, and rage against the insolent sermonizer. He would
-then have done bad with his talk, not good. But a man who exhorts in a
+ways, from obstinacy, anger, and rage against the insolent sermonizer. He
+would then have done bad with his talk, not good. But a man who exhorts in a
 friendly fashion, with a smile and with gentleness, putting on the appearance
 of offering advice and seeming to be speaking of a third person when he
 criticises the faults of the one he is speaking to, then his words reach
@@ -271,18 +277,15 @@ farther and have more effect. But if they are not well received, he should go
 on to exhort or to appeal to the man's sense of shame, but only in private.
 And if [his advice] is still not taken, he should speak in the presence of
 someone who will make the sinner change. This is the practice which Allāh
-ordains when He commands the use of “courteous terms.” The Prophet used not to
-address his listeners directly; instead, he would say to them “What are they
-thinking of, the people who do such thing?…” Peace be upon him! He praised
-gentleness, commended us to be tolerant, and not to argue. He varied his
+ordains when He commands the use of “courteous terms.” The Prophet !pbuh used
+not to address his listeners directly; instead, he would say to them, “What
+are they thinking of, the people who do such thing?…” He !pbuh praised
+gentleness, commended us to be tolerant and not to argue. He !pbuh varied his
 sermons so as not to be boring. And Allāh has said, “If you are harsh, and
-hardhearted, they would have scattered from about you.” [Quran 3:159]
-Severity and hardness should not be used except to inflict the punishment
-ordained by Allāh. A man who has been given special authority to inflict such
-punishment must not be gentle.
-
-[^mean-drily]: _drily_: Without emotion, sympathy, or cordiality, coldly,
-frigidly.
+hard-hearted, they would have scattered from about you.” (Quran 3:159) Severity
+and hardness should not be used except to inflict the punishment ordained by
+Allāh. A man who has been given special authority to inflict such punishment
+must not be gentle.
 
 219. Something which can also have a good effect in a sermon is to praise, in
 the presence of a wrongdoer, somebody who has acted differently. This is an
@@ -300,13 +303,13 @@ divesting the other species of their characteristics and investing them with
 his own. Thus, a virtuous man hopes that all mankind will become virtuous and
 the sinner hopes that all mankind will become sinful. One may observe that
 everybody who recalls a past action of their own which they incite others to
-imitate says, “I always do such and such”; someone with a doctrine wishes that
+imitate says, “I always do such and such.” Someone with a doctrine wishes that
 everybody would agree with him. This phenomenon can also be seen among the
 elements: when some become stronger than others, they change them to their own
 substance: you can see how trees are formed, and how plants and trees are
 nourished by transforming water and the moisture in the soil to their own
 substance. For this may glory be given to Him who created and organized all
-things, the is no other Lord but He.
+things, there is no other Lord but He.
 
 221. One of the most astonishing manifestations of Allāh's power is that
 [despite] the great number of creatures that exist, you never see one so alike

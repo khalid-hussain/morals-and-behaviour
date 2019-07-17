@@ -44,15 +44,14 @@ years.
 126. On the contrary, we should learn from this example the path that we
 should take. It is perilous and difficult to follow and a man would do well to
 advance as carefully as the pin-tailed sandgrouse,[^sandgrouse] more
-cautiously than the magpie, until he turns off the road trodden by mankind and
-makes his way towards his Lord. This road leads to victory, so we are told by
-religion and also by the world. The man who follows it will keep the pure
-intention of healthy souls who are true to their promises, men without guile
-and trickery. He will possess the virtues of the elect, the character of the
-virtuous. And, moreover, he will feel as safe as the worst deceivers, as free
-from care as the evildoers, as the most wicked and cunning people.
-
-[^sandgrouse]: The pin-tailed sandgrouse is a robust, medium-sized bird about 31--39\ cm (12--15 in.) in length. The general colouring is cryptic, a blend of barred and flecked olive green, brown, buff, yellow, grey, and black. The underparts and the feathered legs are dull white. The nominate race, _Pterocles alchata_, breeds in Iberia and southern France. (Wikipedia)
+cautiously than the magpie,[^magpie] until he turns off the road trodden by
+mankind and makes his way towards his Lord. This road leads to victory, so we
+are told by religion and also by the world. The man who follows it will keep
+the pure intention of healthy souls who are true to their promises, men
+without guile and trickery. He will possess the virtues of the elect and the
+characters of the virtuous. Moreover, he will feel as safe as the worst
+deceivers, as free from care as the evildoers, as the most wicked and cunning
+people.
 
 127. You should keep any secret that is confided to you, and not reveal it to
 any friend or stranger, even the man closest to you, if you are at all able to
@@ -98,13 +97,13 @@ happy about what is good for him, whether his friend is happy or unhappy about
 it. This is the added factor which a counsellor has which goes beyond the
 limit of simple friendship.
 
-134. The highest aim of friendship, and there is nothing higher than this, is
-to have all things in common, one's own person, one's belongings, without any
-constraint, and to prefer one's friend to every other being. If I had not
-known Muẓaffar and Mubārak, the two masters of Valencia, I should have thought
-that such a sentiment had disappeared in our times. But I have never seen any
-two other men draw so deeply on all the joys of friendship, despite events
-which would have separated other men.
+134. The highest aim of friendship---and there is nothing higher than
+this---is to have all things in common, one's own person, one's belongings,
+without any constraint, and to prefer one's friend to every other being. If I
+had not known Muẓaffar and Mubārak, the two masters of Valencia, I should have
+thought that such a sentiment had disappeared in our times. But I have never
+seen any two other men draw so deeply on all the joys of friendship, despite
+events which would have separated other men.
 
 135. There is no virtue which so much resembles a vice as the faculty of
 having many friends and acquaintances. But it is really a perfect virtue, made
@@ -114,11 +113,11 @@ moderation. It is important to protect one's friends, teach them what one
 knows, and to win over them by every kind of praiseworthy action.
 
     We do not mean mercenaries, or those who follow us in our days of glory.
-    They are thieves of the title of friendship, they deceive friendship. You
+    They are thieves of the title of friendship; they deceive friendship. You
     think that they are friends but they are not. The proof is that they
     abandon you when fortune abandons you. Nor do we mean those who make
     friends for a particular purpose, nor do we mean drinking companions, not
-    those who gang together to commit crimes, or villainy, to attack people's
+    those who gang together to commit crimes or villainy, to attack people's
     honour, to satisfy their unhealthy curiosity, or for any other useless
     objective. These are not friends at all. The proof is that they speak evil
     of each other, and that they disperse as soon as the evil interests which
@@ -161,10 +160,10 @@ punish ill-doers beyond the measure of their unjust deed. It is difficult for
 anyone except a very intelligent man to cope with this situation.
 
 138. The solution to be adopted by the intelligent man in such a situation is
-to protect the victim against the slanderer, and no more, not inform him what
-the latter said; this is to prevent him going to the slanderer and getting
-into more trouble. As for sly tricks, one should protect the victim, but
-nothing more than that.
+to protect the victim against the slanderer, and no more, and not inform him
+what the latter said; this is to prevent him going to the slanderer and
+getting into more trouble. As for sly tricks, one should protect the victim,
+but nothing more than that.
 
 139. Giving information consists of reporting to someone something one has
 heard which in no way harms the person one tells it to, strength is from
@@ -186,9 +185,7 @@ and brotherly spirit their due. Neither reason nor friendship gives you the
 right to insist. It is rather the right that a ruler has over his subjects or
 a master over his slaves.
 
-[^mean-remonstrance]: From _remonstrate_: To urge strong reasons _against_ a
-course of action, to protest _against_; to expostulate _with_ a person, _on_
-or _upon_ an action.
+<!-- TODO Check the following point -->
 
 141. Do not ask of your friend more than you yourself are prepared to give. To
 ask for more is to abuse his friendship. Do not gain except when you will harm
@@ -207,7 +204,7 @@ need of such tolerance, and if it is more necessary for them.
 tolerant, we should stop turning a blind eye when it is a question of our
 friends. Friends, enemies, and strangers would all be treated exactly the
 same; this cannot be right.” Our reply would be---and may Allāh help us
-succeed--- nothing but encouragement towards tolerance and unselfishness.
+succeed---nothing but encouragement towards tolerance and unselfishness.
 
 144. You should turn a blind eye not on [the faults of] the greedy but only on
 [those of] a true friend. If you wish to know how you should act in this
@@ -240,7 +237,7 @@ the action of a wicked person.
 
 147. Do not be pleased if someone praises you for a quality which you do not
 have; on the contrary, be very sorry because it will bring to public attention
-that you lack them. To sing such praises is to mock and poke fun, and only an
+that you lack it. To sing such praises is to mock and poke fun, and only an
 idiot or an imbecile would be pleased. Do not be sorry if someone criticizes
 you for a fault that you do not have; on the contrary, you should be pleased
 because your merit will be brought to public attention.
@@ -260,7 +257,7 @@ or false, but you do know that it is a grave sin against your religion to hold
 such opinions. However, if you perceive that the same thing is being said from
 several gossips, not just one, or if you are able to verify that the statement
 is well founded, even if you cannot put your friend in a position to observe
-what you have observed, then you should tell him everything, privately, and
+what you have observed, then you should tell him everything, privately and
 tactfully. You should say something like “There are many women…” or “Look
 after your house, teach your family, avoid this, mind that…” If he takes your
 advice and is put on his guard, he will have profited from the chance. If you
@@ -278,6 +275,8 @@ noble aspirations.
 libel or libels. _Libel_: (n.) In popular use: Any false and defamatory
 statement in conversation or otherwise. (v.) To make libellous accusations or
 statements; to spread defamation.
+
+<!-- TODO I don't understand the last part of the following point -->
 
 150. The fact that a man enters a house secretly is proof enough that he means
 ill. The same is true of a woman who enters a man's house secretly. It would be
@@ -304,10 +303,10 @@ for ourselves, and we have tested the categories and found them to be true.
 that somebody else has said the criticisms that you address to your companion,
 that would be to speak ill. If your phrase your advice bluntly, you will annoy
 and discourage. “Speak to him courteously,” the Almighty has said, “And speak
-unto him a gentle word.” [Quran 20:44] And the Prophet (Peace be upon him)
-said: “Do not discourage him.” If you are advising someone, and you insist on
-seeing your advice taken, you are doing wrong since you could be mistaken and
-you would be insisting on him accepting your error and rejecting the truth.
+unto him a gentle word.” (Quran 20:44) And the Prophet !pbuh said, “Do not
+discourage him.” If you are advising someone, and you insist on seeing your
+advice taken, you are doing wrong since you could be mistaken and you would be
+insisting on him accepting your error and rejecting the truth.
 
 153. Everything has its use. Thus, I have profited greatly from mixing with
 the ignorant. This has inspired my inward self, it has sparked off my spirit,

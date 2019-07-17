@@ -54,18 +54,19 @@ their love at the same point as a Muslim does. On the contrary, they feel the
 same love towards their daughters or to their nieces as a Muslim does to a
 woman he will sleep with. One never sees a Muslim desiring his close relatives
 in this way, even if they are more beautiful than the sun itself, even if he
-is the most debauched and the most amorous of men. And if, very exceptionally,
-it should happen, it would be only among the impious, who do not feel the
-constraint of the religion, and who allow themselves every lustful thought,
-and who find every gate of desire open to them. It cannot be guaranteed that a
-Muslim might not love his cousin so excessively that his love became a passion
-and overstepped the affection which he bore towards his daughter and niece,
-even if the cousin was not so beautiful as they. In fact he might desire
-favours from his cousin which he would never expect from his daughter or his
-niece. On the other hand, a Christian will treat his cousin with equal
-respect, for he is not permitted to desire her. But [unlike a Muslim] he does
-not have to restrain himself with anyone who shared a wet nurse with him,
-since he may desire her without offending the laws of his religion.
+is the most debauched[^mean-debauched] and the most amorous[^mean-amorous] of
+men. And if, very exceptionally, it should happen, it would be only among the
+impious, who do not feel the constraint of the religion, and who allow
+themselves every lustful thought, and who find every gate of desire open to
+them. It cannot be guaranteed that a Muslim might not love his cousin so
+excessively that his love became a passion and overstepped the affection which
+he bore towards his daughter and niece, even if the cousin was not so
+beautiful as they. In fact he might desire favours from his cousin which he
+would never expect from his daughter or his niece. On the other hand, a
+Christian will treat his cousin with equal respect, for he is not permitted to
+desire her. But [unlike a Muslim] he does not have to restrain himself with
+anyone who shared a wet nurse with him, since he may desire her without
+offending the laws of his religion.
 
 162. We now see the truth of what we said earlier: love in all its
 manifestations forms one single generic family, but its species vary according
@@ -126,7 +127,7 @@ with respect.
 
 170. The man who is unhappy in love is the one who is racked by a passion for
 one whom he can keep locked away and with whom he may be united without
-incurring the wrath of Allāh or the criticism of his fellow-men. All is well
+incurring the wrath of Allāh or the criticism of his fellow men. All is well
 when the two lovers agree in loving each other. For love to run its course
 freely, it is essential that the two do not feel bored, for that is a bad
 feeling which gives rise to hatred. Perfect love would be if destiny forgot
@@ -153,12 +154,13 @@ clear or penetrating mental vision or discernment.
 
 174. There are five stages in the growth of love: first is to think someone
 pleasant, that is, someone thinks of someone else as being nice or is charmed
-by their character. This is part of making friends. Then there is admiration;
-that is the desire to be near the person that one admires. Then there is close
+by their character. This is part of making friends. Then there is admiration,
+i.e. the desire to be near the person that one admires. Then there is close
 friendship when you miss the other one terribly when they are absent. Then
-there is amorous affection when you are completely obsessed with the loved
-one. In the special vocabulary of love this is called _ʿishq_, “the slavery of
-love.” Finally, there is passion, when one can no longer sleep, eat, or think.
-This can make you ill to the point of delirium or even death. Beyond this,
-there is absolutely no place where love ends.
+there is amorous[^mean-amorous] affection when you are completely obsessed
+with the loved one. In the special vocabulary of love this is called _ʿishq_,
+“the slavery of love.” Finally, there is passion, when one can no longer
+sleep, eat, or think. This can make you ill to the point of
+delirium[^mean-delirium] or even death. Beyond this, there is absolutely no
+place where love ends.
 
