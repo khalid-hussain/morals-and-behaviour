@@ -54,7 +54,12 @@ but do not fall in; ["You may draw near but without going right in"].
 
 [^spleen]: Ibn Ḥazm's text states clearly that he has been told that the spleen is the seat of both good and bad temper. He may have had this idea from reading the works of Ibn Qutaybah (d.\ [ah]{style="font-variant:small-caps;"} 276/889 [ce]{style="font-variant:small-caps;"}), who reported it from Wahb bin Munabbih, who in turn ascribed it to the Torah. Allāh created man from the four elements water, earth, fire, and air; wet, dry, hot, and cold. Allāh then gave him a mind in his head, covetousness in his kidneys, anger is his liver, determination in his heart, fear and terror in his lungs, emotions, laughter, and tears in his spleen, his happiness and sadness in his face, and in the human body he made 360 joints. This is a medical matter which may be true but it is for doctors to say. See Abū Muḥammad ʿAbd Allāh bin Muslim bin Qutaybah, _ʿUyūn al-Akhbār_, (Cairo, al-Muʾassasah al-Miṣrīyyah al-ʿAmmāh li al-Taʾlīf, n.d.) vol.\ 2, p.\ 62.
 
-    ʿIyāḍ bin Khalīfah said that, during the battle of Ṣiffīn, he heard ʿAlī (May Allāh be pleased with him) say, “Indeed, the intellect is in the heart, mercy in the liver, pity in the spleen, and the soul/self in the lungs.” (Reported by al-Bukhārī in _al-Adab al-Mufrad_, ḥadīth no.\ 547. Shaykh al-Albānī declared it _ḥasan_. See the recension of _al-Adab al-Mufrad_ by Muḥammad Fuʾād ʿAbd al-Bāqī. [Beirut: Dār al-Bashāʾir al-Islāmīyyah, 1989]).
+    ʿIyāḍ bin Khalīfah said that, during the battle of Ṣiffīn, he heard ʿAlī
+    !p[him] say, “Indeed, the intellect is in the heart, mercy in the liver,
+    pity in the spleen, and the soul/self in the lungs.” (Reported by
+    al-Bukhārī in _al-Adab al-Mufrad_, ḥadīth no.\ 547. Shaykh al-Albānī
+    declared it _ḥasan_. See the recension of _al-Adab al-Mufrad_ by Muḥammad
+    Fuʾād ʿAbd al-Bāqī. [Beirut: Dār al-Bashāʾir al-Islāmīyyah, 1989]).
 
 64. If the company of the people had only the two following faults, it would
 be enough to keep us away: the first is letting out vital secrets during a

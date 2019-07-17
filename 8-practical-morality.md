@@ -11,7 +11,7 @@ reason.
 needs, and who will reject everything that is of no use to him [will be
 drawing on] one of the best sources of good sense and wisdom.
 
-183. The Prophet (Peace be upon him)---the model of all goodness, whose
+183. The Prophet !pbuh---the model of all goodness, whose
 character was praised by Allāh, in whom Allāh gathered together the most
 diverse and perfect virtues, and whom He kept from sin---was in the habit of
 visiting the sick, accompanied by his friends. They went to the boundaries of
