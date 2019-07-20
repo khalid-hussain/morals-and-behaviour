@@ -1,4 +1,3 @@
-
 !define(pbuh)(
   !pdf(\pbuh)
   !html((Peace and Blessings of Allāh be upon him))
@@ -42,10 +41,10 @@
   )
 )
 
-The Prophet !pbuh.
+<!-- The Prophet !pbuh.
 Male Companion !p[him].
 Female Companion !p[her].
 Those two !p[themtwo].
 Those people !p[them].
-Those women !p[themf].
+Those women !p[themf]. -->
 
