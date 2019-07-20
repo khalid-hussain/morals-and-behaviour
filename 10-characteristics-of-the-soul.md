@@ -49,8 +49,9 @@ fact that you are troubled, is praiseworthy because it is a mark of piety,
 gentleness, charity, and compassion.
 
 324. Thus one can say that the happy medium, for a man, is to have a sensitive
-soul but an impassive[^mean-impassive] body, that is to say that neither on his face or in his
-comportment[^mean-comportment] should there be any sign that he is troubled.
+soul but an impassive[^mean-impassive] body, that is to say that neither on
+his face or in his comportment[^mean-comportment] should there be any sign
+that he is troubled.
 
     If a man whose own judgement is poor only knew what harm his false
     calculations had brought upon him so far, he would find success in the

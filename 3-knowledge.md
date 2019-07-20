@@ -139,8 +139,6 @@ both internal and external. These are the worst of all creatures. This is very
 common and I therefore perceive that these two [moral attitudes] are a favour
 which is granted or withheld by Allāh Almighty.
 
-<!-- TODO Check (Cairo, Bulaq) format -->
-
 [^basri]: Al-Ḥasan al-Baṣrī (d.\ [ah]{style="font-variant:small-caps;"}
 100/718 [ce]{style="font-variant:small-caps;"}) was a great Muslim
 traditionalist and Ṣūfī ascetic. In the history of Islām he looms large for

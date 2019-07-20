@@ -29,6 +29,7 @@ is well-deserved, he will become proud, and his virtue will be corrupted.
     or not.
 
 <!-- TODO Check if you can get the ḥadīth reference. -->
+<!-- Waiting for Moaz -->
 
 15. If it were not for the words of the Prophet !pbuh about “good praise”
 which “brings to the believers the express good news of the happiness which
@@ -56,8 +57,6 @@ which gather in caves in inaccessible places: no animal profits at all from
 them, [except now and then a bird; then the wind and the sun dry up what is
 left. And the same thing happens to possessions which are not consecrated to
 pious works].
-
-<!-- TODO Check if Angels should be capitalized -->
 
 18. A wise man has no satisfaction in a quality which sets him below tigers,
 dumb beasts, and inanimate objects. He rejoices only in his progress in that

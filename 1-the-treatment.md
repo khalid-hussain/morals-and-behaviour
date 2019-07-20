@@ -74,14 +74,12 @@ eat, drink, make love, wear clothes, play games, build a shelter, mount a
 horse, and go for walks, only in order to avoid the reverse of all these
 actions and every other kind of anxiety.
 
-<!-- TODO and other such things. -->
-
 8. In all the actions listed here, anyone who pauses to reflect will see that
 anxieties inevitably occur, such as problems which arise in the course of the
 action, the impossibility of performing the impossible, the fleeting nature of
 any achievements, and the inability to enjoy something because of some
 difficulty. There are also bad consequences which arise from every success:
-fear of one's rival, attacks by the jealous, theft by covetous, loss to an
+fear of one's rival, attacks by the jealous, theft by the covetous, loss to an
 enemy, not to mention criticism, sin, and other such things. On the other
 hand, I have found that actions performed with an eye on eternity are free
 from  _every kind_ of fault, free from _every stain_, and a true means of
