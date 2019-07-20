@@ -43,30 +43,3 @@ font-weight: normal;
 src:url("../fonts/LinBiolinum-Italic.ttf");
 }
 body { font-family: "LinuxBiolinum"; }
-
-/**/
-li {
-  /*margin: 2em 0;*/
-  padding-top: 1em;
-  display: block;
-  position: relative;
-  counter-increment: inst;
-}
-li::before {
-  content: counter(inst);
-  
-  background: rgba(255, 150, 0, 0.35);
-  color: #fff;
-
-  border-radius: 0 0.675em 0.675em 0;
-  font-size: 1em;
-  text-align: center;
-
-  padding-top: 0;
-  padding-left: 2.25%;
-  left: -5%;
-  top: -0.65em;
-  height: 1.35em;
-  width: 1.35em;
-  position: absolute;
-}
