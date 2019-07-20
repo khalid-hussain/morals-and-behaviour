@@ -31,7 +31,7 @@ combine-latex: combine-main
 	_definitions.md > combined.md
 
 epub: combine-epub
-	pp combined.md | \
+	pp -html combined.md | \
 	pandoc -f markdown+startnum+four_space_rule \
 	-t epub \
 	-o akhlaq-wa-siyar.epub --toc \
@@ -40,7 +40,7 @@ epub: combine-epub
 	--epub-embed-font="fonts/LinBiolinum-Bold.ttf" \
 
 latex: combine-latex
-	pp combined.md | \
+	pp -pdf combined.md | \
 	pandoc -f markdown+startnum+four_space_rule \
 	-t latex -o ../book/content.tex \
 	--toc --pdf-engine=xelatex \
