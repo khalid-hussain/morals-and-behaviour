@@ -1,7 +1,7 @@
 
 # Characteristics of the Soul
 
-318. A wise man should not judge by appearances when a sniveller[^mean-snivel]
+318. A wise man should not judge by appearances when a sniveller[^mean-sniveller]
 cries for mercy, pretends that he is oppressed, complains, twists and turns,
 and laments. With a man who behaves like this I have become certain that he
 was the oppressor who went over the limit and committed excessive abuses. And
@@ -23,7 +23,7 @@ His carelessness belongs under the heading of ignorance and that is why it is
 bad. On the other hand, a spirit which is vigilant by nature only makes use of
 carelessness for a good purpose when he should not study or research deeply
 into the subject. To pretend to ignore something in this case means to
-understand reality, to refuse to act precipitously,[mean-precipitious] to use
+understand reality, to refuse to act precipitously,[^mean-precipitious] to use
 moderation, and to prevent the worst happening. Thus it is praiseworthy to
 know how to pretend not to be listening and bad to be naturally inattentive.
 

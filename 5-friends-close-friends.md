@@ -43,7 +43,7 @@ cautiously than the magpie,[^magpie] until he turns off the road trodden by
 mankind and makes his way towards his Lord. This road leads to victory, so we
 are told by religion and also by the world. The man who follows it will keep
 the pure intention of healthy souls who are true to their promises, men
-without guile and trickery. He will possess the virtues of the elect and the
+without guile[^mean-guile] and trickery. He will possess the virtues of the elect and the
 characters of the virtuous. Moreover, he will feel as safe as the worst
 deceivers, as free from care as the evildoers, as the most wicked and cunning
 people.
