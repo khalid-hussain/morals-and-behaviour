@@ -21,6 +21,7 @@ combine-epub: combine-main
 	metadata.yaml \
 	_macros.md \
 	main-matter.md > combined.md
+	sed -i "s/\[\^mean-[[:alnum:]-]*\]//g" combined.md
 
 combine-latex: combine-main
 	cat \
@@ -30,20 +31,20 @@ combine-latex: combine-main
 	_definitions.md > combined.md
 
 epub: combine-epub
+	pp combined.md | \
 	pandoc -f markdown+startnum+four_space_rule \
 	-t epub \
 	-o akhlaq-wa-siyar.epub --toc \
 	--epub-embed-font="fonts/LinBiolinum-Regular.ttf" \
 	--epub-embed-font="fonts/LinBiolinum-Italic.ttf" \
 	--epub-embed-font="fonts/LinBiolinum-Bold.ttf" \
-	combined.md
 
-latex: combine
+latex: combine-latex
+	pp combined.md | \
 	pandoc -f markdown+startnum+four_space_rule \
 	-t latex -o ../book/content.tex \
 	--toc --pdf-engine=xelatex \
 	--top-level-division=chapter \
-	combined.md
 
 clean:
 	rm combined.md
