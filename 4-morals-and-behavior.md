@@ -91,12 +91,18 @@ sound judgment and virtue and working towards eternity, their value is known onl
 to those who share in them. Anyone who has no share in them has no knowledge
 of what they are like.
 
-<!-- TODO, this doesn't make sense to me -->
-
-69. The first person to break with a deceiver is the one whom the deceiver had
+<!-- 69. The first person to break with a deceiver is the one whom the deceiver had
 deceived. The first person to detest a false witness is the person whom the
 false witness supported. The first person to despise an adulterous woman is
-the man who caused her to commit adultery.
+the man who caused her to commit adultery. -->
+
+<!-- Point 69: Thanks to Zahid -->
+
+69. The first person to break away from a deceiver is the one whom the
+deceiver had deceived. The first person to detest a false witness is the
+person whom the false witness had wrongly supported with his testimony. The
+first person to despise an adulterous woman is the man who caused her to
+commit adultery.
 
 70. As far as we know, nothing can be degraded and then resume its natural
 state without great trouble and difficulty. What can we say about the man
@@ -115,8 +121,6 @@ never go right.
 number of unemployed people. A prudent ruler knows how to keep them busy
 without being unfair to them, otherwise they will overwhelm him with petty
 matters.
-
-    <!-- TODO The following is rather strange. -->
 
     Anyone who invites his enemies to come closer to him is suicidal.
 
@@ -274,7 +278,7 @@ it.
 
 <!-- TODO The following doesn't make sense -->
 
-95. In times of civil war, the blossom does not set fruit.
+95. In times of civil war, the blossom does not bear fruit.
 
 96. I myself had faults, and I tried continually to correct them, by
 discipline, by studying the words of the Prophets !pbuh and also the words of
@@ -369,9 +373,7 @@ thing to say and would horrify everyone who heard it, but if you explained
 that it is a matter of “his sister in Islām,” it would be clear that it was
 hasty speaking that created the indecent and ugly aspect of the matter.
 
-<!-- TODO Check this whole point -->
-
-109. For myself, if I pretended not to feel hurt when I am attacked by
+<!-- 109. For myself, if I pretended not to feel hurt when I am attacked by
 someone, I should not be telling the truth, for it is natural to feel hurt in
 such a case, it is only human. But I have forced myself to show neither anger
 nor bad temper nor fury. I manage to hold back an angry answer by preparing
@@ -385,7 +387,28 @@ who will listen, hateful tidbits of gossip (which they attribute to a third
 person)---and nothing will stop them so effectively as this course of action.
 It stops them touting around calumnies which they attribute to others, and
 which serve no purpose except to corrupt consciences and to spread slander
-only.
+only. -->
+
+<!-- Point 109: Thanks to Zahid -->
+
+109. For myself, if I pretended not to feel hurt when I am attacked by
+someone, I would not be telling the truth, for it is natural to feel hurt in
+such a case, it is only human. But I have forced myself to show neither anger
+nor bad temper nor fury.
+
+    I manage to hold back an angry answer by preparing myself in advance. This I
+    can do so thanks to the strength and power of Almighty Allāh. But if I have no
+    time to prepare myself, I restrict myself to retaliating with cutting
+    phrases---but not insults---and I attempt to say only what is true, and to
+    express myself without anger or cruelty. I detest doing even this, except when
+    it is absolutely necessary.
+
+    For example when I wish to stop a false rumor being spread---for most people
+    love to pass on to anyone who will listen, hateful tidbits of gossip (which
+    they attribute to a third person)---and nothing will stop them so effectively
+    as this course of action. It stops them touting around calumnies which they
+    attribute to others, and which serve no purpose except to corrupt consciences
+    and to spread slander.
 
 110. Furthermore, as for the man who is wronging me, there are two
 possibilities and two only. Either he is lying or telling the truth. If he is
