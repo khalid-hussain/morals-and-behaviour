@@ -28,16 +28,19 @@ is well-deserved, he will become proud, and his virtue will be corrupted.
     with their criticism, he wins either way, whether he hears their criticism
     or not.
 
-<!-- TODO Check if you can get the ḥadīth reference. -->
-<!-- Waiting for Moaz -->
+15. If it were not for the words of the Prophet !pbuh about “good
+praise”[^hadith-praise] which “brings to the believers the express good news
+of the happiness which has been promised,” it might have been a sign of wisdom
+to prefer being criticized---even unjustly---to being praised with good
+reason. But these words were spoken. The promised happiness “will always arise
+from merit, not from absence of merit; it will reward only the object of
+praise, not merely the fact that praises were uttered.”
 
-15. If it were not for the words of the Prophet !pbuh about “good praise”
-which “brings to the believers the express good news of the happiness which
-has been promised,” it might have been a sign of wisdom to prefer being
-criticized---even unjustly---to being praised with good reason. But these
-words were spoken. The promised happiness “will always arise from merit, not
-from absence of merit; it will reward only the object of praise, not merely
-the fact that praises were uttered.”
+[^hadith-praise]: This is in reference to the _ḥadīth_ of Abū Dhar !r[him] who
+said that the Messenger of Allah !pbuh was asked, “Tell us about a person who
+does some good deed and people praise him, will this be considered as showing
+off?” He !pbuh replied, “This is the glad tidings which a believer receives
+(in this life).” (Translation from `https://sunnah.com`)
 
 16. There is no difference between virtues and vices, between acts
 of devotion and acts of rebellion, except in as far as the soul feels
@@ -75,15 +78,11 @@ that the mule, the ox, and the elephant are physically stronger than him.
 21. Anyone who glories is his ability to carry heavy weights, let it be known
 to him that the donkey can carry greater weights.
 
-<!-- TODO "than he" or "than him"? -->
-
 22. Anyone who glories in his ability to run, let it be known to him that the
-dog and the hare are faster runners than he.
-
-<!-- TODO "than he" or "than him"? -->
+dog and the hare run faster than him.
 
 23. Anyone who glories in the sound of his voice, let it be known to him that
-many of the birds have sweeter voices than he, and the sound of the flutes is
+many of the birds have sweeter voices than him, and the sound of the flutes is
 more exquisite and charming than the sound of his voice. How can anyone take
 pride or satisfaction in qualities in which these animals are superior?
 
