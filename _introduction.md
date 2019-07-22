@@ -2,8 +2,7 @@
 
 In the name of Allāh the Most Merciful and Clement: [O Allāh I implore Your
 assistance, O Allāh bless Muḥammad and his family and grant them peace]. Abū
-Muḥammad ʿAlī bin Aḥmad bin Saʿīd bin Ḥazm al-Andalusī (May Allāh be pleased
-with him) has said:
+Muḥammad ʿAlī bin Aḥmad bin Saʿīd bin Ḥazm al-Andalusī !p[him] has said:
 
 1. Praise be to Allāh for His great gifts. May Allāh bless [our master]
 Muḥammad, His servant, the seal of His Prophets and Messengers; may He grant
