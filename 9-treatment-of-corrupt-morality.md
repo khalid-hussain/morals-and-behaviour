@@ -69,7 +69,7 @@ yourself right and you have been right and you have been wrong. If you do
 this, you will see that in most cases you have been wrong about as often as
 right. The score will come out about equal. But it is more likely that your
 mistakes will be more numerous because this is the case with every human being
-except the Prophets !s[them]!.
+except the Prophets !s[them]!
 
 233. If you are proud of your good works, remember your times of rebellion,
 your faults, your life in all its aspects. Ah, by Allāh, then you will find
