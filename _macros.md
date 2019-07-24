@@ -1,4 +1,4 @@
-!define(PDF-EPUB)(
+!define(PDForEPUB)(
   !pdf(!1)
   !html(!2)
 )
