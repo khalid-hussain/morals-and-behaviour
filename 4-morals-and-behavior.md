@@ -164,8 +164,8 @@ little actors mounted on wooden handles that are turned rapidly so that some
 disappear and others appear.[^puppet]
 
 [^puppet]: This is an important historical reference to shadow-theatres in
-al-Andalus in the time of Ibn Ḥazm. c.f. Ibn Ḥazm, _al-Fiṣal_, vol.\ 1, p.\
-110 and vol.\ 5, p.\ 6.
+al-Andalus in the time of Ibn Ḥazm. c.f. Ibn Ḥazm, _al-Fiṣal_, vol.\ 1, p.\ 110
+and vol.\ 5, p.\ 6.
 
 84. For a long time I have been thinking about death. I had certain dear
 friends, as closely bound to me by the bonds of sincere affection as the soul
