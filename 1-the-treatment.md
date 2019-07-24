@@ -45,7 +45,7 @@ always be some people who do not desire it.
     account. There are some who by nature and inclination prefer obscurity to
     fame [the obscurity of satisfied passion]. There are some who have no
     interest in amassing a fortune, preferring abstinence to ownership; this
-    was the case with many of the Prophets !s[them]---and those who followed
+    was the case with many of the Prophets !s[them] and those who followed
     their example, ascetics, and philosophers. There are some who by nature
     dislike sensual pleasures and scorn those who seek after them, such as
     those men we have just mentioned, and who prefer to lose a fortune rather
