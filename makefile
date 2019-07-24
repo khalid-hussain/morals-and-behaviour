@@ -1,6 +1,7 @@
 default: epub
 
 combine-main:
+	@printf "\ncombine-main():\n"
 	cat \
 	_introduction.md \
 	1-the-treatment.md \
@@ -17,13 +18,15 @@ combine-main:
 	12-the-way-to-attend-halaqaat.md > main-matter.md
 
 combine-epub: combine-main
+	@printf "\ncombine-epub():\n"
 	cat \
 	metadata.yaml \
 	_macros.md \
 	main-matter.md > combined.md
-	sed -i "s/\[\^mean-[[:alnum:]-]*\]//g" combined.md
+	sed -i 's/\[\^mean-[[:alnum:]-]*\]//g' combined.md
 
 combine-latex: combine-main
+	@printf "\ncombine-latex():\n"
 	cat \
 	metadata.yaml \
 	_macros.md \
@@ -31,6 +34,7 @@ combine-latex: combine-main
 	_definitions.md > combined.md
 
 epub: combine-epub
+	@printf "\nepub():\n"
 	pp -html combined.md | \
 	pandoc -f markdown+startnum+four_space_rule \
 	-t epub \
@@ -40,12 +44,14 @@ epub: combine-epub
 	--epub-embed-font="fonts/LinBiolinum-Bold.ttf" \
 
 latex: combine-latex
+	@printf "\nlatex():\n"
 	pp -pdf combined.md | \
 	pandoc -f markdown+startnum+four_space_rule \
-	-t latex -o ../book/content.tex \
-	--toc --pdf-engine=xelatex \
-	--top-level-division=chapter \
+	-t latex \
+	--top-level-division=chapter | \
+	sed '/\\\def\\\labelenumi/d' > ../book/content.tex
 
 clean:
+	@printf "\nclean():\n"
 	rm combined.md
 	rm main-matter.md
