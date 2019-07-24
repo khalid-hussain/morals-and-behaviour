@@ -36,7 +36,7 @@ reason. But these words were spoken. The promised happiness “will always arise
 from merit, not from absence of merit; it will reward only the object of
 praise, not merely the fact that praises were uttered.”
 
-[^hadith-praise]: This is in reference to the _ḥadīth_ of Abū Dhar !r[him] who
+[^hadith-praise]: This is in reference to the _ḥadīth_ of Abū Dhar !p[him] who
 said that the Messenger of Allah !pbuh was asked, “Tell us about a person who
 does some good deed and people praise him, will this be considered as showing
 off?” He !pbuh replied, “This is the glad tidings which a believer receives
@@ -90,7 +90,7 @@ pride or satisfaction in qualities in which these animals are superior?
 whose deeds are good, should rejoice because only the Angels and the best
 of men are superior to him in these matters.
 
-25. Allāh says «Anyone who fears the majesty of Allāh, and controls himself
+25. Allāh says, «Anyone who fears the majesty of Allāh, and controls himself
 against passion, he shall have Paradise for his refuge.» (Quran 79:40--41)
 These words encapsulate all virtue: _to control oneself against passion_ means
 in fact to turn away from one's natural tendency towards anger and lust,
