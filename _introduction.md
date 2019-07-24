@@ -26,6 +26,8 @@ devoting all my efforts to them, and reflecting at length upon them. I hope
 that it will be well received, and I present it with good intentions and
 blessings [with a good heart].
 
+---
+
 This book will benefit a person more than financial treasures and possessions
 of property, if he meditates upon it, and if Allāh enables him to make good
 use of it. As for myself, my hope in this enterprise is to win the greatest
