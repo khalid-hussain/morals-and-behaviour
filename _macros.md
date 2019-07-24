@@ -38,11 +38,11 @@
 !define(s)(
   !ifeq(!1)(him)(
     !pdf(\salamhim)
-    !html()
+    !html((Peace be upon him))
   )
   !ifeq(!1)(them)(
     !pdf(\salamthem)
-    !html()
+    !html((Peace be upon them))
   )
 )
 
