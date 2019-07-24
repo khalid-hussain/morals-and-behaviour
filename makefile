@@ -22,16 +22,27 @@ combine-epub: combine-main
 	cat \
 	metadata.yaml \
 	_macros.md \
-	main-matter.md > combined.md
-	sed -i 's/\[\^mean-[[:alnum:]-]*\]//g' combined.md
+	_typesetters-note.md \
+	main-matter.md | \
+	sed 's/\[\^mean-[[:alnum:]-]*\]//g' > combined.md
 
-combine-latex: combine-main
+combine-latex: combine-main latex-typesetter-note
 	@printf "\ncombine-latex():\n"
 	cat \
 	metadata.yaml \
 	_macros.md \
 	main-matter.md \
 	_definitions.md > combined.md
+
+epub-typesetter-note:
+	cat _macros.md _typesetters-note.md
+
+latex-typesetter-note:
+	cat _macros.md _typesetters-note.md | \
+	pp -pdf | \
+	pandoc -t latex \
+	-o ../book/typesetter_note.tex \
+	--top-level-division=chapter
 
 epub: combine-epub
 	@printf "\nepub():\n"
