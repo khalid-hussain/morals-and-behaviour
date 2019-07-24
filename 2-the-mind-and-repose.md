@@ -39,8 +39,8 @@ praise, not merely the fact that praises were uttered.”
 [^hadith-praise]: This is in reference to the _ḥadīth_ of Abū Dhar !p[him] who
 said that the Messenger of Allah !pbuh was asked, “Tell us about a person who
 does some good deed and people praise him, will this be considered as showing
-off?” He !pbuh replied, “This is the glad tidings which a believer receives
-(in this life).” (Translation from `https://sunnah.com`)
+off!pdf[\kern0.15em]?” He !pbuh replied, “This is the glad tidings which a
+believer receives (in this life).” (Translation from `https://sunnah.com`)
 
 16. There is no difference between virtues and vices, between acts
 of devotion and acts of rebellion, except in as far as the soul feels
@@ -112,11 +112,11 @@ justice which springs from rationality which is part of a reasonable soul.
 protected, and they are few---throw themselves into the miseries, the worries,
 and fatigues of this world, and pile up a mountain of sin which will mean that
 they enter hellfire in the Hereafter and will have no advantage from the
-perfidious[^mean-perfidious] intentions which they nurse so carefully, such as wishing for an
-inflation of prices which would bring disaster upon the children, the
-innocent, or wishing the worst trials upon those they hate. They know very
-well that these bad intentions will not necessarily bring about what they
-desire or guarantee its advent, and if they clarified and improved their
+perfidious[^mean-perfidious] intentions which they nurse so carefully, such as
+wishing for an inflation of prices which would bring disaster upon the
+children, the innocent, or wishing the worst trials upon those they hate. They
+know very well that these bad intentions will not necessarily bring about what
+they desire or guarantee its advent, and if they clarified and improved their
 intentions they would hasten the repose of their spirits. They would then have
 the time to devote themselves to their own business and would thus profit a
 great deal in addition to the return of their souls to Allāh, and all this
