@@ -244,8 +244,8 @@ designation of the ancient Persian kings in general.] and Caesars, those who
 are descended from the Tubbaʿ and the various kings of Islam. Consider what
 remains of them and what has survived. Observe those who boast of their
 ancestry as you do of yours, and you will see that most of them are as ignoble
-as dogs. You will find that they are low, extremely vile, and unreliable; you will
-find that they are adorned with the very worst of characteristics.
+as dogs. You will find that they are low, extremely vile, and unreliable; you
+will find that they are adorned with the very worst of characteristics.
 
 251. Therefore, you should not boast of something in which such people are
 your equals or even superior to you. The ancestors which make you so proud may
@@ -467,11 +467,12 @@ his good sense can neither control nor conceal this feeling.
 creatures---is that they are so dominated by a deep love for their grandchild
 or their wife that they describe them in public as extremely intelligent. They
 go as far as to say, “She is more intelligent than me and I regard her advice
-as a blessing.” They praise her beauty, her charm, her vivacity[^mean-vivacity]---this often
-happens with very feeble men---and do it so much and so well that if they
-wished to find her a husband they need say nothing more in order to make
-someone desire her from their description. Such behaviour is only found among
-souls which are weak and lacking in all self-esteem.
+as a blessing.” They praise her beauty, her charm, her
+vivacity[^mean-vivacity]---this often happens with very feeble men---and do it
+so much and so well that if they wished to find her a husband they need say
+nothing more in order to make someone desire her from their description. Such
+behaviour is only found among souls which are weak and lacking in all
+self-esteem.
 
 272. Take care not to boast, because nobody will believe you, even if you are
 telling the truth. On the contrary, they will take everything that you have
