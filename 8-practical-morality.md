@@ -174,12 +174,12 @@ patience.
 
 207. Anyone who comes to you with lies will go away with truths; that is to
 say, anyone who repeats to you lies which he attributes to a third person will
-make you beside yourself[^mean-yourself] with rage; you will respond to him,
+make you beside yourself[^beside-yourself] with rage; you will respond to him,
 and your response is the truth that he will carry away. Therefore be careful
 not to behave like this, and only answer when you are certain about the
 provenance[^mean-provenance] of the lies.
 
-[^mean-yourself]: _beside yourself_: In a state of extreme excitement or
+[^beside-yourself]: _beside yourself_: In a state of extreme excitement or
 agitation. _They were beside themselves with glee._
 
 208. There is nothing worse than falsehood. For how do you not regard a vice
