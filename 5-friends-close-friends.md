@@ -4,8 +4,8 @@
 120. Anyone who criticizes you cares about your friendship. Anyone who makes
 light of your faults cares nothing about you.
 
-121. Criticizing a friend is like melting an ingot:[^mean-ingot] it will either become
-refined or it will disappear.
+121. Criticizing a friend is like melting an ingot:[^mean-ingot] it will
+either become refined or it will disappear.
 
 122. A friend who conceals a secret which concerns you is more disloyal
 towards you than one who tells a secret of yours. For the one who tells your
@@ -33,8 +33,8 @@ futile reason which I would never have believed could influence such a man. He
 has never reconciled with me since, and this has made me very sad for many
 years.
 
-    However, one should not do bad things and follow the example of
-    wicked men and traitors.
+    However, one should not do bad things and follow the example of wicked men
+    and traitors.
 
 126. On the contrary, we should learn from this example the path that we
 should take. It is perilous and difficult to follow and a man would do well to
@@ -43,10 +43,10 @@ cautiously than the magpie,[^magpie] until he turns off the road trodden by
 mankind and makes his way towards his Lord. This road leads to victory, so we
 are told by religion and also by the world. The man who follows it will keep
 the pure intention of healthy souls who are true to their promises, men
-without guile[^mean-guile] and trickery. He will possess the virtues of the elect and the
-characters of the virtuous. Moreover, he will feel as safe as the worst
-deceivers, as free from care as the evildoers, as the most wicked and cunning
-people.
+without guile[^mean-guile] and trickery. He will possess the virtues of the
+elect and the characters of the virtuous. Moreover, he will feel as safe as
+the worst deceivers, as free from care as the evildoers, as the most wicked
+and cunning people.
 
 127. You should keep any secret that is confided to you, and not reveal it to
 any friend or stranger, even the man closest to you, if you are at all able to
@@ -59,11 +59,11 @@ effort and draw strength from Allāh.
 others, whether they ask you or not, and to help anyone who needs you and whom
 you are able to help, even if he does not expressly come to you for help.
 
-129. Do not expect any help in return from anyone except Allāh, the Almighty and
-Great. As you go on your way always remember that the first person you help
-will be the first to do harm and turn against you. Indeed, because of their
-profound jealousy, men of bad character detest those that help them when they
-see that the latter are better off.
+129. Do not expect any help in return from anyone except Allāh, the Almighty
+and Great. As you go on your way always remember that the first person you
+help will be the first to do harm and turn against you. Indeed, because of
+their profound jealousy, men of bad character detest those that help them when
+they see that the latter are better off.
 
 130. [In your social life] treat every human being as graciously as you can.
 If someone comes to you with defects and problems such as arise in the normal
@@ -121,17 +121,18 @@ knows, and to win over them by every kind of praiseworthy action.
     make some real virtue triumph or to taste the pleasures of the only true
     kind of friendship.
 
-    If one commits the fault of having too many friends, there is the difficulty
-    of keeping them all happy, the dangers of associating with them, the duties
-    which fall on us when they are subjected to trials (for if you betray them or
-    let them down, you will be criticized and blamed; but if on the other hand you
-    are true to them, you will harm yourself to the extent that you could lose
-    your own life, and this choice is the only one acceptable to the virtuous man
-    if he wishes to be true to his friendship); if one thinks of the worries which
-    we have from the misfortunes which come upon them or which come upon us
-    because of them: death, separation, betrayal of one among them, one will see
-    that the joy brought by these friends is outweighed by the painful sadness
-    which they cause.
+    If one commits the fault of having too many friends, there is the
+    difficulty of keeping them all happy, the dangers of associating with
+    them, the duties which fall on us when they are subjected to trials (for
+    if you betray them or let them down, you will be criticized and blamed;
+    but if on the other hand you are true to them, you will harm yourself to
+    the extent that you could lose your own life, and this choice is the only
+    one acceptable to the virtuous man if he wishes to be true to his
+    friendship); if one thinks of the worries which we have from the
+    misfortunes which come upon them or which come upon us because of them:
+    death, separation, betrayal of one among them, one will see that the joy
+    brought by these friends is outweighed by the painful sadness which they
+    cause.
 
 136. There is nothing among the vices which is so like a virtue as the desire
 to be praised. Indeed, if someone sings our praises in our presence, we would
@@ -180,7 +181,13 @@ and brotherly spirit their due. Neither reason nor friendship gives you the
 right to insist. It is rather the right that a ruler has over his subjects or
 a master over his slaves.
 
-<!-- TODO Check the following point -->
+<!-- TODO No. 141: Translation is incomplete -->
+
+<!-- Original Arabic of 141 -->
+
+<!-- لَا تكلّف صديقك إِلَّا مثل مَا تبذل لَهُ من نَفسك فَإِن طلبت أَكثر فَأَنت
+ظَالِم وَلَا تكسب إِلَّا على شَرط الْفَقْد وَلَا تتول إِلَّا على شَرط الْعَزْل
+وَإِلَّا فَأَنت مُضر بِنَفْسِك خَبِيث السِّيرَة. -->
 
 141. Do not ask of your friend more than you yourself are prepared to give. To
 ask for more is to abuse his friendship. Do not gain except when you will harm
@@ -211,13 +218,13 @@ the other the obligation to be unselfish. If he does not, he is greedy, avid,
 and deserves no indulgence since he is acting neither like a friend nor like a
 brother.
 
-    If the two find themselves in equal need, in equal straits, true friendship
-    would require that they race each other to be the more unselfish. If they
-    behave like this, they are both friends. If one of them hastens to be
-    unselfish and the other does not, and if this is what usually happens, the
-    second is not a friend and there is no need to be friendly towards him. But if
-    he would hasten to sacrifice himself in other circumstances then this is a
-    pair of true friends.
+    If the two find themselves in equal need, in equal straits, true
+    friendship would require that they race each other to be the more
+    unselfish. If they behave like this, they are both friends. If one of them
+    hastens to be unselfish and the other does not, and if this is what
+    usually happens, the second is not a friend and there is no need to be
+    friendly towards him. But if he would hasten to sacrifice himself in other
+    circumstances then this is a pair of true friends.
 
 145. If there is someone in need whom you wish to help, whether the initiative
 came from him or from you, do no more than he expects of you, not what you
@@ -246,32 +253,47 @@ it or not.
 account tell him, particularly if the person who said them was a slanderer or
 libeller[^mean-libeller] or notorious gossip, one of those people who try to
 draw attention away from their own faults by increasing the number of people
-like themselves; this often happens. As a general rule, it is best to stick to
-the truth. Now, in this case, you cannot know whether the statements are true
-or false, but you do know that it is a grave sin against your religion to hold
-such opinions. However, if you perceive that the same thing is being said from
-several gossips, not just one, or if you are able to verify that the statement
-is well founded, even if you cannot put your friend in a position to observe
-what you have observed, then you should tell him everything, privately and
-tactfully. You should say something like “There are many women…” or “Look
-after your house, teach your family, avoid this, mind that…” If he takes your
-advice and is put on his guard, he will have profited from the chance. If you
-notice that he takes no precautions and does not worry about anything, you
-must control yourself, not say a word, and remain friends, for the fact that
-he has not believed what you have told him does not oblige you to break with
-him. But if, having been in a position to observe some definite proof, you are
-able to put your friend in a position to see some identical proof, it is your
-duty to tell him and to make him face the whole truth. If he changes his
-attitude, that is good. But if he will not change his attitude, you should
-shun his friendship, because this would be vile man with no virtue and no
-noble aspirations.
+like themselves; this often happens.
 
-<!-- TODO I don't understand the last part of the following point -->
+    As a general rule, it is best to stick to the truth. Now, in this case,
+    you cannot know whether the statements are true or false, but you do know
+    that it is a grave sin against your religion to hold such opinions.
+    However, if you perceive that the same thing is being said from several
+    gossips, not just one, or if you are able to verify that the statement is
+    well founded, even if you cannot put your friend in a position to observe
+    what you have observed, then you should tell him everything, privately and
+    tactfully. You should say something like “There are many women…” or “Look
+    after your house, teach your family, avoid this, mind that…”
+
+    If he takes your advice and is put on his guard, he will have profited
+    from the chance. If you notice that he takes no precautions and does not
+    worry about anything, you must control yourself, not say a word, and
+    remain friends, for the fact that he has not believed what you have told
+    him does not oblige you to break with him. But if, having been in a
+    position to observe some definite proof, you are able to put your friend
+    in a position to see some identical proof, it is your duty to tell him and
+    to make him face the whole truth. If he changes his attitude, that is
+    good. But if he will not change his attitude, you should shun his
+    friendship, because this would be vile man with no virtue and no noble
+    aspirations.
+
+<!-- 150. The fact that a man enters a house secretly is proof enough that he means
+ill. The same is true of a woman who enters a man's house secretly. It would
+be stupid to require further proof. You should run from such a woman or at
+least separate. Anyone who kept her with him would be a virtual go-between. -->
+
+<!-- TODO Point 150: Waiting for Abu Khuzaymah's and Ustadh Sajjad's answer -->
 
 150. The fact that a man enters a house secretly is proof enough that he means
-ill. The same is true of a woman who enters a man's house secretly. It would be
-stupid to require further proof. You should run from such a woman or at least
-separate. Anyone who kept her with him would be a virtual go-between.
+ill. The same is true of a woman who enters a man's house secretly. It would
+be stupid to require further proof. You should run from such a woman or at
+least separate. Anyone who keeps such a woman as a wife after all this is a
+cuckold.[^trans-cuckold]
+
+[^trans-cuckold]: The original trans. reads, “Anyone who kept her with him
+would be a virtual go-between,” but this didn't reflect the original Arabic,
+“[...وَمُمسِكُهَا لا يَبعُدُ عَنِ الدِّيَاثَةِ]{lang='ar'}” (See p.\ 29 of
+Source A and no.\ 117, p.\ 126 of Source B).
 
 151. Men can be divided into seven categories according to certain traits of
 their characters. Some praise you to your face and criticize you behind your
