@@ -1,3 +1,8 @@
+!define(PDF-EPUB)(
+  !pdf(!1)
+  !html(!2)
+)
+
 !define(pbuh)(
   !pdf(\pbuh)
   !html((Peace and Blessings of Allāh be upon him))
@@ -38,6 +43,13 @@
   !ifeq(!1)(them)(
     !pdf(\salamthem)
     !html()
+  )
+)
+
+!define(m)(
+  !ifeq(!1)(him)(
+    !pdf(\mercyhim)
+    !html((May Allāh have mercy on him))
   )
 )
 
