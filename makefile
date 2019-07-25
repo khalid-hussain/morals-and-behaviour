@@ -23,6 +23,7 @@ combine-epub: combine-main
 	metadata.yaml \
 	_macros.md \
 	_typesetters-note.md \
+	_dedication.md \
 	main-matter.md | \
 	sed 's/\[\^mean-[[:alnum:]-]*\]//g' > combined.md
 
@@ -34,15 +35,18 @@ combine-latex: combine-main latex-typesetter-note
 	main-matter.md \
 	_definitions.md > combined.md
 
-epub-typesetter-note:
-	cat _macros.md _typesetters-note.md
-
 latex-typesetter-note:
 	cat _macros.md _typesetters-note.md | \
 	pp -pdf | \
 	pandoc -t latex \
 	-o ../book/typesetter_note.tex \
 	--top-level-division=chapter
+
+latex-dedication:
+	pp -pdf _dedication.md | \
+	pandoc -t latex \
+	--top-level-division=chapter \
+	> ../book/dedication.tex
 
 epub: combine-epub
 	@printf "\nepub():\n"
@@ -54,7 +58,7 @@ epub: combine-epub
 	--epub-embed-font="fonts/LinBiolinum-Italic.ttf" \
 	--epub-embed-font="fonts/LinBiolinum-Bold.ttf" \
 
-latex: combine-latex
+latex: combine-latex latex-dedication
 	@printf "\nlatex():\n"
 	pp -pdf combined.md | \
 	pandoc -f markdown+startnum+four_space_rule \
