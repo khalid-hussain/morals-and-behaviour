@@ -382,9 +382,9 @@ Allāh. But if I have no time to prepare myself, I restrict myself to
 retaliating with cutting phrases, but not insults, and I attempt to say only
 what is true, and to express myself without anger or cruelty. I detest doing
 even this, except when it is absolutely necessary. For example when I wish to
-stop the spread of a false rumour---for most people love to pass on, to anyone
+stop the spread of a false rumour-for most people love to pass on, to anyone
 who will listen, hateful tidbits of gossip (which they attribute to a third
-person)---and nothing will stop them so effectively as this course of action.
+person)-and nothing will stop them so effectively as this course of action.
 It stops them touting around calumnies which they attribute to others, and
 which serve no purpose except to corrupt consciences and to spread slander
 only. -->
