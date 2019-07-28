@@ -13,7 +13,12 @@ inclination to take sides, not incline towards or against such attitudes as we
 have described, and seek to be impartial to all, as we are obliged to by
 justice.
 
-<!-- TODO Double check first sentence -->
+<!-- TODO 319: Double check first sentence of translation -->
+
+<!-- 
+Original Arabic (Source C: Shamela)
+من عجائب الأخلاق ان الغفلة مذمومة، وأن استعمالها محمود. وإنما ذلك لان من هو مطبوع [على] الغفلة يستعملها في غير موضعها، وفي حيث يجب التحفظ، وهي تغيب عن فهم الحقيقة فدخلت تحت الجهل فذمت لذلك. وأما المتيقظ الطبع فإنه لا يضع الغفلة إلا في موضعها الذي يذم [فيه] البحث والتقصي. والتغافل فهم للحقيقة وإضراب عن الطيش واستعمال للحلم وتسكين للمكروه، فلذلك حمدت حالة التغافل وذمت الغفلة.
+ -->
 
 319. A curious thing about human nature is that carelessness is bad when it is
 good to know how to make use of it sometimes. This can only be explained by
