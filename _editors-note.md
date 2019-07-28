@@ -17,8 +17,9 @@ I've also replaced the term “God” with “Allāh” throughout the document.
 
 The following works were referenced:
 [[source a]]{.smallcaps} _Risālah fī Mudāwāh al-Nufūs wa Tahdhīb al-Akhlāq_ (Egypt: Nile Printers, [ah]{.smallcaps} 1323),
-[[source b]]{.smallcaps} _Kitāb al-Akhlāq wa al-Siyar_ (Beirut: Dār Ibn Ḥazm, n.d.), and
-[[source c]]{.smallcaps} _In Pursuit of Virtue_ (UK: Ta-Ha Publishers, 1990).
+[[source b]]{.smallcaps} _Kitāb al-Akhlāq wa al-Siyar_ (Beirut: Dār Ibn Ḥazm, n.d.),
+[[source c]]{.smallcaps} _Rasāʾil Ibn Ḥazm_ (Beirut: Muʾassasah al-ʿArabiyyah li al-Dirāsāt wa al-Nashr, 2nd Ed. 1987), and
+[[source d]]{.smallcaps} _In Pursuit of Virtue_ (UK: Ta-Ha Publishers, 1990).
 !PDForEPUB(For word definitions, I have used the Oxford English Dictionary, 2nd Ed.)
 
 I would like to acknowledge Zahid Mateen, Bukhari, Ustādh Sajaad, and Hamza Peer for their contribution to translation and editorial work.
