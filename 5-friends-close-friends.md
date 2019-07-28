@@ -282,8 +282,6 @@ ill. The same is true of a woman who enters a man's house secretly. It would
 be stupid to require further proof. You should run from such a woman or at
 least separate. Anyone who kept her with him would be a virtual go-between. -->
 
-<!-- TODO Point 150: Waiting for Abu Khuzaymah's and Ustadh Sajjad's answer -->
-
 150. The fact that a man enters a house secretly is proof enough that he means
 ill. The same is true of a woman who enters a man's house secretly. It would
 be stupid to require further proof. You should run from such a woman or at
