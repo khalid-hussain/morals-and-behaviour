@@ -88,8 +88,6 @@ good qualities known truthfully and you should conceal his faults. [These
 obligations lie upon you] for the rest of your life and should be handed down
 to your descendents and to those you love.
 
-<!-- TODO The goodness and benefactions... -->
-
 332. However, it is no part of gratitude to assist someone in committing sin
 and not advise him in cases where he is doing himself harm in this world and
 the next. On the contrary, anyone who helps his benefactor to do evil is
