@@ -50,9 +50,7 @@ always in their company? Solitude is where you will find dignity, repose,
 happiness, and security. You should treat company like a fire. Warm yourself
 but do not fall in; ["You may draw near but without going right in"].
 
-<!-- TODO Check style of See <Author>, <Work> (<Publishing details) -->
-
-[^spleen]: Ibn Ḥazm's text states clearly that he has been told that the spleen is the seat of both good and bad temper. He may have had this idea from reading the works of Ibn Qutaybah (d.\ [ah]{style="font-variant:small-caps;"} 276/889 [ce]{style="font-variant:small-caps;"}), who reported it from Wahb bin Munabbih, who in turn ascribed it to the Torah. Allāh created man from the four elements water, earth, fire, and air; wet, dry, hot, and cold. Allāh then gave him a mind in his head, covetousness in his kidneys, anger is his liver, determination in his heart, fear and terror in his lungs, emotions, laughter, and tears in his spleen, his happiness and sadness in his face, and in the human body he made 360 joints. This is a medical matter which may be true but it is for doctors to say. See Abū Muḥammad ʿAbd Allāh bin Muslim bin Qutaybah, _ʿUyūn al-Akhbār_, (Cairo, al-Muʾassasah al-Miṣrīyyah al-ʿAmmāh li al-Taʾlīf, n.d.) vol.\ 2, p.\ 62.
+[^spleen]: Ibn Ḥazm's text states clearly that he has been told that the spleen is the seat of both good and bad temper. He may have had this idea from reading the works of Ibn Qutaybah (d.\ [ah]{style="font-variant:small-caps;"} 276/889 [ce]{style="font-variant:small-caps;"}), who reported it from Wahb bin Munabbih, who in turn ascribed it to the Torah. Allāh created man from the four elements water, earth, fire, and air; wet, dry, hot, and cold. Allāh then gave him a mind in his head, covetousness in his kidneys, anger is his liver, determination in his heart, fear and terror in his lungs, emotions, laughter, and tears in his spleen, his happiness and sadness in his face, and in the human body he made 360 joints. This is a medical matter which may be true but it is for doctors to say. See p.\ 62, vol.\ 2 of _ʿUyūn al-Akhbār_ (Cairo: al-Muʾassasah al-Miṣrīyyah al-ʿAmmāh li al-Taʾlīf, n.d.) by Abū Muḥammad ʿAbd Allāh bin Muslim bin Qutaybah.
 
     ʿIyāḍ bin Khalīfah said that, during the battle of Ṣiffīn, he heard ʿAlī
     !p[him] say, “Indeed, the intellect is in the heart, mercy in the liver,
@@ -177,6 +175,11 @@ whether he has forgotten or been engaged.
 
 <!-- TODO Double check this point -->
 
+<!-- 
+Arabic (Source C: Shamela)
+[غفلة النفس ونسيانها ما كانت فيه في دار الابتداء قبل حلولها في الجسد كغفلة من وقع في طين غمر عن كل ما عهد وعرف قبل ذلك. ثم أطلت الفكر أيضاً في ذلك فلاح لي شعب زائد من البيان. وهو أني رأيت النائم اذ همت نفسه بالتخلي من جسده وقوي حسها حتى تشاهد الغيوب قد نسيت ما كان فيه قبيل نومها نسياناً تاماً البتة على قرب عهدها به، وحدثت لها أحوال أخر، وهي في كل ذلك ذاكرة حساسة متلذذة آلمة، ولذة النوم محسوسة في حاله، لان النائم يلتذ ويحتلم ويخاف ويحزن في حال نومه].
+ -->
+
 85. The oblivion of the soul who forgets the state it was in in the world of
 temptation [its first abode] while waiting for the resurrection of the body
 [to enter the body] is like the oblivion of someone who has fallen into mud
@@ -267,6 +270,8 @@ more general term; generosity is more specific. Magnanimity is a virtue
 without being generosity. Virtue is a general prescription to which one adds a
 specific action.
 
+<!-- إهمال ساعة يفسد رياضة سنة. -->
+
 93. One hour of neglect can undo a year of pious effort.
 
 94. In the course of affairs, a mistake made by an individual is better than a
@@ -276,9 +281,19 @@ be put right, but the correct views of the Muslim assembly will lead them to
 ignore something that may have been wrong, and they will be lost because of
 it.
 
-<!-- TODO The following doesn't make sense -->
+<!-- Original Arabic (Source C: Shamela)
+نوار الفتنة لا يعقد
+-->
 
-95. In times of civil war, the blossom does not bear fruit.
+95. _Fitnah_'s blossom does not bear fruit.[^blossom]
+
+[^blossom]: The original trans. reads, “In times of civil war, the blossom does not bear fruit.” The original Arabic reads [نوار الفتنة لا يعقد]{lang=ar} (Source C).
+
+    Its meaning was expounded in p.\ 67, vol. 1 of _al-ʿIrāq fi aḥādīth wa āthār al-Fitan_ (Dubai: Maktabah al-Furqān, 2004):
+
+    ::: {lang=ar}
+    والمعنى: أنّ للفتنة مظهراً خادعاً في مبدئه، قد يستحسن الناس صورتها، ويعقدون الآمال عليها، ولكن سرعان ما تموت وتتلاشى، مثل الزهرة التي تموت قبل أنْ تتفتح وتعطي ثمرتها.
+    :::
 
 96. I myself had faults, and I tried continually to correct them, by
 discipline, by studying the words of the Prophets !pbuh and also the words of
