@@ -162,8 +162,6 @@ adultery, murder, passions, and fear of poverty.
 203. To beg for something that belongs to someone else stems from a tendency
 which is midway between ruthlessness and covetousness.
 
-<!-- TODO Consider revising the following point -->
-
 204. If we make a distinction between ruthlessness and covetousness, it is
 only because ruthlessness reveals the covetousness that is hidden in the soul.
 
