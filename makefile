@@ -22,12 +22,12 @@ combine-epub: combine-main
 	cat \
 	metadata.yaml \
 	_macros.md \
-	_typesetters-note.md \
 	_dedication.md \
+	_editors-note.md \
 	main-matter.md | \
 	sed 's/\[\^mean-[[:alnum:]-]*\]//g' > combined.md
 
-combine-latex: combine-main latex-typesetter-note
+combine-latex: combine-main latex-editors-note
 	@printf "\ncombine-latex():\n"
 	cat \
 	metadata.yaml \
@@ -35,11 +35,11 @@ combine-latex: combine-main latex-typesetter-note
 	main-matter.md \
 	_definitions.md > combined.md
 
-latex-typesetter-note:
-	cat _macros.md _typesetters-note.md | \
+latex-editors-note:
+	cat _macros.md _editors-note.md | \
 	pp -pdf | \
 	pandoc -t latex \
-	-o ../book/typesetter_note.tex \
+	-o ../book/editors_note.tex \
 	--top-level-division=chapter
 
 latex-dedication:
