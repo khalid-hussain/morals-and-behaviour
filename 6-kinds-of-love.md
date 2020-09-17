@@ -111,12 +111,12 @@
      opposite, is composed of the four opposite faults, that is, cowardice,
      greed, injustice, and ignorance.
 
-    Greed is a kind of covetousness which would like to possess everything; it is
-    insatiable and ever increasing in its demands. If there were no such thing as
-    covetousness, nobody would ever humiliate himself to anybody else. Abū Bakr
-    bin Abī al-Fayyāḍ has told me that “ʿUthmān bin Muḥāmis [d.\ [ah]{style="font-variant:small-caps;"} 356/966
-    [ce]{style="font-variant:small-caps;"}] inscribed upon the door of his house in Ecija [in Seville],‘O ʿUthmān, do not covet
-    anything.’”
+     Greed is a kind of covetousness which would like to possess everything; it is
+     insatiable and ever increasing in its demands. If there were no such thing as
+     covetousness, nobody would ever humiliate himself to anybody else. Abū Bakr bin
+     Abī al-Fayyāḍ has told me that “ʿUthmān bin Muḥāmis [d.\ [ah]{.smallcaps}
+     356/966 [ce]{.smallcaps}] inscribed upon the door of his house in Ecija [in
+     Seville],‘O ʿUthmān, do not covet anything.’”
 
 ## Other Species of this Kind
 

@@ -1,3 +1,4 @@
+
 # Physical Beauty
 
 When I was asked to examine this matter, this is how I responded:

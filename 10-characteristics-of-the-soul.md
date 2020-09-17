@@ -60,6 +60,6 @@ Original Arabic (Source C: Shamela)
      his face or in his comportment[^mean-comportment] should there be any sign
      that he is troubled.
 
-    If a man whose own judgement is poor only knew what harm his false
+    If a man whose own judgment is poor only knew what harm his false
     calculations had brought upon him so far, he would find success in the
-    future if he stopped relying on his own judgement, Allāh guide us.
+    future if he stopped relying on his own judgment, Allāh guide us.

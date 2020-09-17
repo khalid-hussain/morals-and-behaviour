@@ -1,3 +1,4 @@
+
 # The Mind and Repose
 
 Do not listen to what other people say. Listen only to the Words of the Creator.
