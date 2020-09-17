@@ -1,35 +1,40 @@
-# TODO
+# DONE
 
-## NOT YET
+- ~~Various spellings of Judgement/Judgment~~
 
-- 6, 8, 9, 12 (poem)
-- Various spellings of Judgement/Judgement
+# NOT YET
+
 - Change CSS for numbers of ordered list to be center and above the current paragraph.
 - Find out how to reference the Quran brackets. Should they be inside the
   sentence or outside? If outside, then how do we start a new sentence?
 - Check footnotes in source D.
 
-- CH4 (Waiting for Bukirna Faso)
-- CH5 (You'll have to figure this out yourself)
-  - 141: Possible translations given below.
-- CH8 (There is poetry here)
+- CH4 -- Sent to Lounge: Editorial TG
+
 - CH9
   - 250: Check with the book.
-  - 259: Check the last sentence with the Arabic.
-  - 265: Check the paragraph.
-  - 271: Reconsider “in all self-esteem.”
-  - 304: Check for consistency and grammar.
+  - 259: Check the last sentence with the Arabic. -- Sent to Lounge: Editorial TG
+  - 265: Check the paragraph. -- Sent to Lounge: Editorial TG
+  - 271: Reconsider “in all self-esteem.” -- Sent to Lounge: Editorial TG
+  - 304: Check for consistency and grammar. -- Sent to Lounge: Editorial TG
 - CH10
   - 319: Check first sentence of translation.
 - CH12
   - 338: Check the second paragraph.
-  - 345: (There is poetry here)
+
+## Poetry
+
+- CH8: 197
+- CH12: 345
+- 6, 12 (poem)
 
 ## Point 141
 
 **Original Arabic**
 
-لَا تكلّف صديقك إِلَّا مثل مَا تبذل لَهُ من نَفسك فَإِن طلبت أَكثر فَأَنت ظَالِم وَلَا تكسب إِلَّا على شَرط الْفَقْد وَلَا تتول إِلَّا على شَرط الْعَزْل وَإِلَّا فَأَنت مُضر بِنَفْسِك خَبِيث السِّيرَة.
+لَا تكلّف صديقك إِلَّا مثل مَا تبذل لَهُ من نَفسك فَإِن طلبت أَكثر فَأَنت ظَالِم
+وَلَا تكسب إِلَّا على شَرط الْفَقْد وَلَا تتول إِلَّا على شَرط الْعَزْل وَإِلَّا
+فَأَنت مُضر بِنَفْسِك خَبِيث السِّيرَة.
 
 **Original translation**
 
@@ -66,3 +71,11 @@ Pure soul, so if you asked for more, you are unjust, and don't earn unless
 with the condition of loss, and don't accept the public position unless you
 make a condition for Dismissal, otherwise, you bring damage to yourself, and
 provide a Bad reputation.
+
+**Zahraa's translation**
+
+Do not burden your friend except with as much as you would be willing to sacrifice for him.
+For if you demand more than that, you would be an oppressor.
+Do not gain except on the condition of loss, and do not take up a position except on the condition that you will leave it.
+Otherwise, you will harm yourself and taint your own reputation.
+
