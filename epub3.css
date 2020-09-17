@@ -28,18 +28,18 @@ div.column{ display: inline-block; vertical-align: top; width: 50%; }
 font-family: LinuxBiolinum;
 font-style: normal;
 font-weight: normal;
-src:url("../fonts/LinBiolinum-Regular.ttf");
+src:url("../fonts/LinBiolinum-Regular.ttf") format('truetype');
 }
 @font-face {
 font-family: LinuxBiolinum;
 font-style: normal;
 font-weight: bold;
-src:url("../fonts/LinBiolinum-Bold.ttf");
+src:url("../fonts/LinBiolinum-Bold.ttf") format('truetype');
 }
 @font-face {
 font-family: LinuxBiolinum;
 font-style: italic;
 font-weight: normal;
-src:url("../fonts/LinBiolinum-Italic.ttf");
+src:url("../fonts/LinBiolinum-Italic.ttf") format('truetype');
 }
 body { font-family: "LinuxBiolinum"; }
