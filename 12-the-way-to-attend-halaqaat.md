@@ -53,7 +53,7 @@
      piety, a great tendency to verbiage, a weakness of spirit and considerable
      vanity. Let us commend the matter to Allāh who is our best support.
 
-<!-- TODO Check the second paragraph of the following point. -->
+<!-- TODO 338: Check the second paragraph of the following point. -->
 
 338. If certain statements are put to you verbally, or if you come across a
      written text, guard against reacting violently, which will bring about
@@ -107,7 +107,7 @@
      something more ugly, that is, not to preach good and not to preach against
      evil and also to allow oneself to act badly and not to do good.”
 
-<!-- TODO the following has a poem -->
+<!-- TODO 345: POEM -->
 
 345. Abū Muḥammad added: “Abū al-Aswad al-Duʿalī said,[^edit-poem]
 

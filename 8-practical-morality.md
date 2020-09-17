@@ -114,7 +114,7 @@
      opposite of the constituents of the virtues. They are: unfairness,
      ignorance, cowardice, and greed.
 
-<!-- TODO There is poetry here -->
+<!-- TODO 197: POEM -->
 
 197. Honesty and temperance[^mean-temperance] are two kinds of fairness and generosity.
 

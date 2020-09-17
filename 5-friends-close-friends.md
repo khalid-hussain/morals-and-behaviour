@@ -181,18 +181,24 @@
      friendship gives you the right to insist. It is rather the right that a
      ruler has over his subjects or a master over his slaves.
 
-<!-- TODO No. 141: Translation is incomplete -->
-<!-- You'll have to figure this out yourself. -->
-<!-- Try asking Musa Furber -->
-
+<!-- TODO 141: Incomplete Translation -->
 <!-- Original Arabic of 141 -->
 <!-- لَا تكلّف صديقك إِلَّا مثل مَا تبذل لَهُ من نَفسك فَإِن طلبت أَكثر فَأَنت
 ظَالِم وَلَا تكسب إِلَّا على شَرط الْفَقْد وَلَا تتول إِلَّا على شَرط الْعَزْل
 وَإِلَّا فَأَنت مُضر بِنَفْسِك خَبِيث السِّيرَة. -->
 
+<!-- Original English from Website
 141. Do not ask of your friend more than you yourself are prepared to give. To
      ask for more is to abuse his friendship. Do not gain except when you will
-     harm yourself and your behaviour will be detestable.
+     harm yourself and your behaviour will be detestable. -->
+
+<!-- 141 translation credits: Zahraa Lotfi -->
+
+141. Do not burden your friend except with as much as you would be willing to
+     sacrifice for him. For if you demand more than that, you would be an
+     oppressor. Do not gain except on the condition of loss, and do not take up
+     a position except on the condition that you will leave it. Otherwise, you
+     will harm yourself and taint your own reputation.
 
 142. If you find excuses for selfish and greedy men and shut your eyes to their
      faults, you are not displaying humanity or virtue. On the contrary, it is a

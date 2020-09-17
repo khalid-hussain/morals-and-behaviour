@@ -41,8 +41,6 @@
      criticising or when one only wishes to reprimand a boastful person, which
      should be done to his face and not behind his back.
 
-<!-- Check the Quran reference in the following paragraph -->
-
 230. Then you should say to the boastful man, “Turn around and look at yourself.
      When you have perceived your own faults, you will have found the cure for
      your pride. Do not compare yourself with someone who has more faults than
@@ -55,17 +53,18 @@
      hateful disease which gave birth in you to scorn of other people when there
      are without a doubt better people than you among them. If you scorn them
      with no cause, they will have cause to scorn you, for the Almighty says,
-     [“To condone an evil is to commit the same evil.”][^not-exist] “The reward
-     of an evil is an evil like it.” (Quran 42:20) So you will expose yourself
-     to scorn, even to deserved disdain and the anger of Allāh, and the loss of
-     every trace of virtue that there may have been in you.
+     “The reward of an evil is an evil like it.”[^not-exist] (Quran 42:20) So
+     you will expose yourself to scorn, even to deserved disdain and the anger
+     of Allāh, and the loss of every trace of virtue that there may have been in
+     you.
 
-[^not-exist]: Typesetter: This phrase exists in the original hard copy of _In
-Pursuit of Virtue_ as well. I checked for it in the original Arabic from two
-sources: (1) _Rasāʾil Ibn Ḥazm_, vol.\ 1, #161, p.\ 387 (Beirut: Al-Muʾassasah
-al-ʿArabiyyah li al-Dirāsāt wa al-Nashr, 1987) revised by Dr. Iḥsān ʿAbbās and
-(2) _Kitāb al-Akhlāq wa al-Siyar_, #173, p.\ 157 (Beirut: Dār Ibn Ḥazm, 2000)
-checked by ʿAbd al-Ḥaq al-Turkmānī. These sources did not have this phrase.
+[^not-exist]: Typesetter: The translation from the original hard copy of _In
+Pursuit of Virtue_ reads, “To condone an evil is to commit the same evil.” I
+checked for it in the original Arabic from two sources: (1) _Rasāʾil Ibn Ḥazm_,
+vol.\ 1, p.\ 387, #161 (Beirut: Al-Muʾassasah al-ʿArabiyyah li al-Dirāsāt wa
+al-Nashr, 1987) revised by Dr. Iḥsān ʿAbbās and (2) _Kitāb al-Akhlāq wa
+al-Siyar_, p.\ 157, #173 (Beirut: Dār Ibn Ḥazm, 2000) checked by ʿAbd al-Ḥaq
+al-Turkmānī. These sources did not have this phrase.
 
 231. If you are proud of your intelligence, remember all the bad thoughts that
      come into your mind and the deceitful hopes which assail you, then you will
@@ -90,23 +89,23 @@ checked by ʿAbd al-Ḥaq al-Turkmānī. These sources did not have this phrase.
      way that would anger the Almighty because He might wipe it from you by
      subjecting you to an illness which would make you forget all that you have
      learned and stored in your memory. I have been told that this happened to
-     ʿAbd al-Malik bin Ṭarīf [d.\ [ah]{style="font-variant:small-caps;"}
-     400/1009 [ce]{style="font-variant:small-caps;"}], who was a scholar,
-     intelligent, moderate, exact in his researches, who had been allotted by
-     fate such a prodigious memory that virtually nothing reached his ears that
-     had to be said to him twice. Now he undertook a journey by ship and
-     experienced such a terrible storm at sea that he lost the memory of most of
-     what he had learnt and suffered considerable upset to his mind. He never
-     recovered his full intelligence. I myself have been struck by illness. When
-     I recovered from it, I had forgotten all my knowledge except for a few
-     ideas of little value. I did not regain it until several years later.
+     ʿAbd al-Malik bin Ṭarīf [d.\ [ah]{.smallcaps} 400/1009 [ce]{.smallcaps}],
+     who was a scholar, intelligent, moderate, exact in his researches, who had
+     been allotted by fate such a prodigious memory that virtually nothing
+     reached his ears that had to be said to him twice. Now he undertook a
+     journey by ship and experienced such a terrible storm at sea that he lost
+     the memory of most of what he had learnt and suffered considerable upset to
+     his mind. He never recovered his full intelligence. I myself have been
+     struck by illness. When I recovered from it, I had forgotten all my
+     knowledge except for a few ideas of little value. I did not regain it until
+     several years later.
 
 235. You should also know that there are many people greedy for knowledge, who
      devote themselves to reading, to study, and to research but do not reap any
      benefit from it. A scholar should realize that it is enough to pursue
      knowledge, many others will rank higher than him. Knowledge is truly a gift
      from Allāh. So what place is there for pride? One can only feel humble,
-     give thanks to Allāh Almighty and beg Him to increase His gifts and not to
+     give thanks to Allāh Almighty, and beg Him to increase His gifts and not to
      withhold them.
 
 236. You should also remember that everything that remains hidden from you,
@@ -156,10 +155,9 @@ checked by ʿAbd al-Ḥaq al-Turkmānī. These sources did not have this phrase.
      the universe!
 
 242. Remember what was said by Ibn al-Sammāk [Abū al-ʿAbbās Muḥammad ibn Ṣubayḥ,
-     d.\ [ah]{style="font-variant:small-caps;"} 183/799
-     [ce]{style="font-variant:small-caps;"}] to al-Rashīd when the latter asked
-     to be brought a cup of drinking water: “Commander of the faithful, if you
-     were refused this drink, how much would you offer to get it?”
+     d.\ [ah]{.smallcaps} 183/799 [ce]{.smallcaps}] to al-Rashīd when the latter
+     asked to be brought a cup of drinking water: “Commander of the faithful, if
+     you were refused this drink, how much would you offer to get it?”
 
     “My entire kingdom,” replied al-Rashīd.
 
@@ -245,7 +243,7 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      your ancestry protects you against hunger, or dishonour, or whether it does
      you any good in the next world.
 
-<!-- TODO Double check the following with the book -->
+<!-- TODO 250: Double check the following with the book -->
 
 250. Next, consider those who are equally well descended, or even better, those
      who are descended from the Prophets !s[them] or their successors, from the
@@ -303,12 +301,10 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
 
 256. Among those who have been born illegitimate, some have risen to the highest
      positions in control of the world's affairs, for example Ziyād [bin Abīh
-     (d.\ [ah]{style="font-variant:small-caps;"} 53/672
-     [ce]{style="font-variant:small-caps;"})] and Abū Muslim al-Khurasānī [d.\
-     [ah]{style="font-variant:small-caps;"} 129/746
-     [ce]{style="font-variant:small-caps;"}]. There have been others who have
-     attained supreme virtue, like those whom we respect too highly to name them
-     in this context. We come nearer to Allāh if we love them and model our
+     (d.\ [ah]{.smallcaps} 53/672 [ce]{.smallcaps})] and Abū Muslim al-Khurasānī
+     [d.\ [ah]{.smallcaps} 129/746 [ce]{.smallcaps}]. There have been others who
+     have attained supreme virtue, like those whom we respect too highly to name
+     them in this context. We come nearer to Allāh if we love them and model our
      lives on their glorious achievements.
 
 257. If you take pride in your physical strength, remember that the mule, the
@@ -329,7 +325,9 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      exceptional that those we have just mentioned; he may be inferior to them,
      or their equal, but he is not their superior.
 
-<!-- TODO I don't understand the last sentence. Double check with the Arabic. -->
+<!-- TODO 259: I don't understand the last sentence. Double check with the Arabic. -->
+
+<!-- 163 in the Shamela edition: http://islamport.com/d/2/fqh/2/22/65.html -->
 
 259. Next, let him consider his conduct. Does he act fairly or unfairly when he
      makes use of the gifts which Allāh has granted him: money, power, slaves,
@@ -391,7 +389,9 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      this, the proud man sings his own praises and contents himself with
      criticizing other people and mocking them.
 
-<!-- TODO check the following paragraph -->
+<!-- TODO 265: Double check first paragraph -->
+
+<!-- 168 in the Shamela edition: http://islamport.com/d/2/fqh/2/22/65.html -->
 
 265. Pride can also exist for no good reason and where there is no merit in the
      proud person; this is the strangest thing about it. The popular phrase for
@@ -429,7 +429,7 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      only answer I could get was this: “I am a free man,” he said, “I am
      nobody's slave.”
 
-    I replied “Most people that one meets share this same quality with you.
+    I replied, “Most people that one meets share this same quality with you.
     Like you, they are free men, except for a certain number of slaves who are
     more generous than you and who give orders to you and to many other free
     men.” I could not get anything else out of him.
@@ -478,7 +478,7 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      does not appear until he meets with some success or acquires some fortune
      and his good sense can neither control nor conceal this feeling.
 
-<!-- TODO Reconsider "in all self-esteem." -->
+<!-- TODO 271: Reconsider "in all self-esteem." -->
 
 271. Something that I have seen that is very curious---among certain weak
      creatures---is that they are so dominated by a deep love for their
@@ -600,7 +600,7 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      on it. In each of these cases the harm comes from overdoing it and going
      beyond the boundaries of the happy medium.
 
-295. Virtue is the medium between the two extremes [the “too much” and the“too
+295. Virtue is the medium between the two extremes [the “too much” and the “too
      little”]. These two extremes are to be criticised---and virtue, lying
      between them, is to be praised---except when it is a question of
      intelligence, and then there can be no excess.
@@ -638,7 +638,7 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
 303. Magnanimity[^mean-magnanimity] consists not of mingling with your enemies
      but of showing mercy to them while still not trusting them.
 
-<!-- TODO Check the following point for consistency and grammar -->
+<!-- TODO 304: Check the following point for consistency and grammar -->
 
 304. How many men have we not seen take pride in their possessions and so be
      lost! Guard against this attitude, it is really harmful and completely

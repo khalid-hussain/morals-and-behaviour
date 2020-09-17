@@ -1,3 +1,4 @@
+
 # Morals and Behaviour
 
 56. Take care to have a reputation of being a man of good intention. Beware of
@@ -53,17 +54,16 @@
 
 [^spleen]: Ibn Ḥazm's text states clearly that he has been told that the spleen
 is the seat of both good and bad temper. He may have had this idea from reading
-the works of Ibn Qutaybah (d.\ [ah]{style="font-variant:small-caps;"} 276/889
-[ce]{style="font-variant:small-caps;"}), who reported it from Wahb bin Munabbih,
-who in turn ascribed it to the Torah. Allāh created man from the four elements
-water, earth, fire, and air; wet, dry, hot, and cold. Allāh then gave him a mind
-in his head, covetousness in his kidneys, anger is his liver, determination in
-his heart, fear and terror in his lungs, emotions, laughter, and tears in his
-spleen, his happiness and sadness in his face, and in the human body he made 360
-joints. This is a medical matter which may be true but it is for doctors to say.
-See p.\ 62, vol.\ 2 of _ʿUyūn al-Akhbār_ (Cairo: al-Muʾassasah al-Miṣrīyyah
-al-ʿAmmāh li al-Taʾlīf, n.d.) by Abū Muḥammad ʿAbd Allāh bin Muslim bin
-Qutaybah.
+the works of Ibn Qutaybah (d.\ [ah]{.smallcaps} 276/889 [ce]{.smallcaps}), who
+reported it from Wahb bin Munabbih, who in turn ascribed it to the Torah. Allāh
+created man from the four elements water, earth, fire, and air; wet, dry, hot,
+and cold. Allāh then gave him a mind in his head, covetousness in his kidneys,
+anger is his liver, determination in his heart, fear and terror in his lungs,
+emotions, laughter, and tears in his spleen, his happiness and sadness in his
+face, and in the human body he made 360 joints. This is a medical matter which
+may be true but it is for doctors to say. See p.\ 62, vol.\ 2 of _ʿUyūn
+al-Akhbār_ (Cairo: al-Muʾassasah al-Miṣrīyyah al-ʿAmmāh li al-Taʾlīf, n.d.) by
+Abū Muḥammad ʿAbd Allāh bin Muslim bin Qutaybah.
 
     ʿIyāḍ bin Khalīfah said that, during the battle of Ṣiffīn, he heard ʿAlī
     !p[him] say, “Indeed, the intellect is in the heart, mercy in the liver,
@@ -326,7 +326,7 @@ Arabic (Source C: Shamela)
 نوار الفتنة لا يعقد
 -->
 
-95. _Fitnah_'s blossom does not bear fruit.[^blossom]
+95. _Fitnah's_ blossom does not bear fruit.[^blossom]
 
 [^blossom]: The original trans. reads, “In times of civil war, the blossom does not bear fruit.” The original Arabic reads [نوار الفتنة لا يعقد]{lang=ar} (Source C).
 
@@ -398,7 +398,8 @@ Arabic (Source C: Shamela)
      anyone who has acted in a truly hostile way towards me.
 
 <!-- Arabic Source C
-وأما سوء الظن فيعده قوم عيباً على الاطلاق وليس كذلك إلا اذا أدى صاحبه إلى ما لا يحل في الديانة أو ما يقبح في المعاملة والا فهو حزم، والحزم فضيلة.
+وأما سوء الظن فيعده قوم عيباً على الاطلاق وليس كذلك إلا اذا أدى صاحبه إلى ما لا
+يحل في الديانة أو ما يقبح في المعاملة والا فهو حزم، والحزم فضيلة.
 -->
 
 105. Mistrust itself is regarded by some as an absolute fault. This is not so,
@@ -491,7 +492,7 @@ only. -->
      should be angry with myself, not with my critic, who is justified in his
      criticism.
 
-<!-- TODO Point 111: Double check -->
+<!-- TODO 111: Double check -->
 <!-- Waiting for Bukirna Faso -->
 
 <!-- Arabic Source C
@@ -541,9 +542,9 @@ only. -->
      that he will not succeed, either in religion or in good conduct.
 
 114. As for vanity, envy, falsehood, and treachery, I have absolutely no
-experience of them from my nature. It seems that I have no merit for avoiding
-     them since all my being spurns them. Thanks for this be rendered to Allāh,
-     Lord of the Worlds.
+     experience of them from my nature. It seems that I have no merit for
+     avoiding them since all my being spurns them. Thanks for this be rendered
+     to Allāh, Lord of the Worlds.
 
 115. One of the defects of the love of renown is that it cancels out the value
      of good deeds, if the man performing them likes them to be spoken of. This

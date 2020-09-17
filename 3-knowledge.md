@@ -142,18 +142,18 @@
     two [moral attitudes] are a favour which is granted or withheld by Allāh
     Almighty.
 
-[^basri]: Al-Ḥasan al-Baṣrī (d.\ [ah]{style="font-variant:small-caps;"} 100/718
-[ce]{style="font-variant:small-caps;"}) was a great Muslim traditionalist and
-Ṣūfī ascetic. In the history of Islām he looms large for his literary writings
-and moral sayings. See Ibn Khallikān, _Wafayāt_ (Cairo: Bulaq, n.d.) vol.\ 1,
-p.\ 227. He was born and lived in Basra, southern Iraq.
+[^basri]: Al-Ḥasan al-Baṣrī (d.\ [ah]{.smallcaps} 100/718 [ce]{.smallcaps}) was
+a great Muslim traditionalist and Ṣūfī ascetic. In the history of Islām he looms
+large for his literary writings and moral sayings. See Ibn Khallikān, _Wafayāt_
+(Cairo: Bulaq, n.d.) vol.\ 1, p.\ 227. He was born and lived in Basra, southern
+Iraq.
 
-[^plato]: Plato, the famous Greek philosopher, d.\ 347
-[bc]{style="font-variant:small-caps;"}, disciple of Socrates, visited Egypt and
-lived there for one year and learned before Egyptian wise men in ʿAyn Shams.
-Jamāl al-Dīn Abū al-Ḥasan al-Qafṭī, _Tārikh al-Ḥukamāʾ_, edited by Julius
-Lippert (Leipzig, 1903) p.\ 16, also Abū Sulaymān al-Manṭiqī al-Sijistānī,
-_Ṣiwān al-Ḥikmah wa Thalāth Rasāʾil_, edited by A. Badawī, (Tehran, 1974) p.\
+[^plato]: Plato, the famous Greek philosopher, d.\ 347 [bc]{.smallcaps},
+disciple of Socrates, visited Egypt and lived there for one year and learned
+before Egyptian wise men in ʿAyn Shams. Jamāl al-Dīn Abū al-Ḥasan al-Qafṭī,
+_Tārikh al-Ḥukamāʾ_, edited by Julius Lippert (Leipzig, 1903) p.\ 16, also Abū
+Sulaymān al-Manṭiqī al-Sijistānī, _Ṣiwān al-Ḥikmah wa Thalāth Rasāʾil_, edited
+by A. Badawī, (Tehran, 1974) p.\
 84, 128ff.
 
 [^vuzurgmihr]: Vuzurgmihr was the minister of the ancient Persian king, Khusrau
