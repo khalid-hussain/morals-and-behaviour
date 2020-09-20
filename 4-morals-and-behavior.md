@@ -492,14 +492,13 @@ only. -->
      should be angry with myself, not with my critic, who is justified in his
      criticism.
 
-<!-- TODO 111: Double check -->
-<!-- Waiting for Bukirna Faso -->
-
 <!-- Arabic Source C
 وأما أمر إخواني فإني لست أمسك عن الامتعاض لهم، لكني أمتعض امتعاضاً رقيقاً لا أزيد فيه على أن أندم القائل منهم بحضرتي وأجعله يتذمم ويتعذر ويخجل ويتنصل، وذلك بأن أسلك به طريق ذم من نال من الناس، وان نظر المرء في أمر نفسه والتهمم بإصلاحها أولى به من تتبع عثرات الناس، وبأن أذكر فضل صديقي فأبكته على اقتصاره على ذكر العيب دون ذكر الفضيلة وأن أقول له: "إنه لا يرضى فيك فهو أولى بالكرم منك، فلا ترض لنفسك بهذا،" أو نحو هذا من القول. وأما أن أهارش القائل فأحميه وأهيج طباعه وأستثير غضبه فينبعث منه في صديقي أضعاف ما أكره، فأنا الجاني حينئذ على صديقي والمعرض له بقبيح السب وتكراره فيه وإسماعه من لم يسمعه والإغراء به، وربما كنت أيضاً في ذلك جانياً على نفسي ما لا ينبغي لصديقي أن يرضاه لي من إسماعي الجفاء والمكروه، وأنا لا أريد من صديقي أن يذب عني بأكثر من الوجه الذي حددت، فان تعدى ذلك إلى أن يساب النائل مني حتى يولد بذلك أن يتضاعف النيل وان يتعدى أيضاً اليه بقبيح المواجهة، وربما إلى أبوي وأبويه على قدر سفه النائل ومنزلته من البذاءة وربما كانت منازعة بالأيدي، فأنا مستنقص لفعله في ذلك زار عليه متظلم منه غير شاكر له، لكني ألومه على ذلك أشد اللوم، وبالله تعالى التوفيق.
 -->
 
-111. As for my friends, I have not forbidden myself to defend them. But I do it
+<!-- Original Translation -->
+
+<!-- 111. As for my friends, I have not forbidden myself to defend them. But I do it
      gently, contenting myself with persuading the person who has slandered them
      in my presence to repent, urging him to reproach himself, to apologize, to
      feel ashamed, and to take back what he said. I achieve this by following
@@ -522,7 +521,37 @@ only. -->
      and his own parents, depending on how insolent and impudent the one who
      started it is. They might even come to blows, I should scorn him, because
      he had brought this upon me; I certainly would not be grateful to him. On
-     the contrary I should be extremely cross with him. Allāh help us!
+     the contrary I should be extremely cross with him. Allāh help us! -->
+
+<!-- Zahraa's Translation -->
+
+111. As for my friends, I have not forbidden myself from defending them. But I
+     do it gently; I do not go past persuading the person who has slandered them
+     in my presence to repent, urging him to reproach himself, to apologize, to
+     feel ashamed, and to take back what he said. I achieve this by taking the
+     path of blaming the slanderers and telling them that it is of greater
+     priority to mind their own business, and work to fix their own affairs
+     rather than tracking down the faults of others. I go on to recall the
+     merits of my friend, reproaching the critic for limiting himself to
+     recalling my friend's faults without mentioning his virtues, and I say to
+     him, “He would never like that to be said about you. Thus, he is more
+     generous than you. So, do not accept that for yourself,” or something
+     similar. As for attacking the slanderer, annoying him, irritating him, and
+     making him angry---that would only provoke him to multiply the insults
+     towards my friend, which I so dislike. Therein, I would be guilty towards
+     my friend because it would expose him to coarse and repeated insults which
+     would be spread to the ears of those who had not heard them before and
+     would give rise to further slander. Perhaps, this would make me just as
+     guilty towards myself as I recieve that which my friend shall not like for
+     me to hear from insults and injuries. And I do not want my friend to defend
+     me beyond the limits I have outlined. If he goes further to insult the
+     person who wronged me to the extent that the attack against me multiplies,
+     and the wrongdoer transgresses against my friend, or even against my
+     parents, and my friend's parents---depending on how insolent and impudent
+     he is. They may even come to blows! I shall surely look down at this doing
+     of his. I shall scorn him because he had brought this upon me; I certainly
+     would not be grateful to him. On the contrary, I would throw onto him the
+     harshest of blames. And success is from Allāh.
 
 112. A man of prejudice who never stops to think has accused me of squandering
      my fortune. This is more hasty talk, which I would explain as follows: I

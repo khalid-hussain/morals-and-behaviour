@@ -333,13 +333,42 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      makes use of the gifts which Allāh has granted him: money, power, slaves,
      health, or fame? If he finds that he has failed in his obligation to feel
      grateful towards the Almighty Benefactor, if he finds that he is at the
+     extreme edge of being just, bordering on injustice, he should remember that
+     people who are just, grateful, and honest have been more favoured than he
+     and are more virtuous than he. If he considers that he does love justice,
+     let him remember that a just man is far from being proud because he knows
+     the real importance of things, the real value of characters, and he
+     maintains moderation, which is balancing between two blameworthy extremes;
+     on the contrary, he must incline towards one of these bad extremes.
+
+<!-- Original Translation -->
+
+     <!-- Next, let him consider his conduct. Does he act fairly or unfairly when he
+     makes use of the gifts which Allāh has granted him: money, power, slaves,
+     health, or fame? If he finds that he has failed in his obligation to feel
+     grateful towards the Almighty Benefactor, if he finds that he is at the
      extreme edge of fairness, bordering on injustice, he should remember that
      people who are just, grateful, and honest have been more favoured than he
      and are more virtuous than he. If he considers that he does love justice
      let him remember that a just man is far from being proud because he knows
      the real importance of things, the real value of characters, and he loves
      the happy medium which is the balance between two bad extremes; on the
-     contrary, he must incline towards one of these bad extremes.
+     contrary, he must incline towards one of these bad extremes. -->
+
+<!-- Memoni's edition -->
+
+     <!-- Next, let him consider his conduct. Does he act fairly or unfairly when he
+     makes use of the gifts which Allāh has granted him of money, power,
+     followers, health, and fame? If he finds that he has failed in his
+     obligation to be grateful towards the Almighty Benefactor, if he finds that
+     he is at the extreme edge of being just, bordering on injustice, he should
+     remember that people who are just, grateful, and honest have been more
+     favoured than himself and are more virtuous than him. If he considers that
+     he leans towards justice then let him remember that a just man is far from
+     being proud because he knows the real importance of things, the real value
+     of characters, and he maintains moderation, which is balancing between two
+     blameworthy extremes; And if he were to be proud, he wouldn't be just,
+     rather he would've inclined towards one of these bad extremes. -->
 
 260. You should remember that if you oppress or maltreat beings whose fate has
      been entrusted to you by Allāh as slaves or subjects, this shows that you
@@ -389,17 +418,15 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      this, the proud man sings his own praises and contents himself with
      criticizing other people and mocking them.
 
-<!-- TODO 265: Double check first paragraph -->
-
 <!-- 168 in the Shamela edition: http://islamport.com/d/2/fqh/2/22/65.html -->
 
 265. Pride can also exist for no good reason and where there is no merit in the
      proud person; this is the strangest thing about it. The popular phrase for
-     it is “_Mutamandil_ discernment.” It is often found in women or in men
-     whose spirit is rather effeminate. It is the pride of someone who has
-     absolutely no good quality: neither knowledge, nor courage, nor high social
-     standing, nor noble descent, nor fortune, which might give him abusive
-     authority.
+     it is egotism.^[Typesetter: This is the closest translation of
+     “_mutamandil_ discernment”.] It is often found in women or in men whose
+     spirit is rather effeminate. It is the pride of someone who has absolutely
+     no good quality: neither knowledge, nor courage, nor high social standing,
+     nor noble descent, nor fortune, which might give him abusive authority.
 
     And, what is more, such a man knows that he is a non-entity in every way, for
     even the idiot that has stones thrown at him knows this. The only person who
@@ -478,9 +505,9 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      does not appear until he meets with some success or acquires some fortune
      and his good sense can neither control nor conceal this feeling.
 
-<!-- TODO 271: Reconsider "in all self-esteem." -->
+<!-- Original translation -->
 
-271. Something that I have seen that is very curious---among certain weak
+<!-- 271. Something that I have seen that is very curious---among certain weak
      creatures---is that they are so dominated by a deep love for their
      grandchild or their wife that they describe them in public as extremely
      intelligent. They go as far as to say, “She is more intelligent than me and
@@ -488,6 +515,31 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      vivacity[^mean-vivacity]---this often happens with very feeble men---and do
      it so much and so well that if they wished to find her a husband they need
      say nothing more in order to make someone desire her from their
+     description. Such behaviour is only found among souls which are weak and
+     lacking in all self-esteem. -->
+
+<!-- Zahraa's translation -->
+
+<!-- 271. Among the amusing things I have seen in some weak individuals is that such
+     a person is so dominated by a deep love for his young child or his wife
+     that he describes her in public as extremely intelligent. He would even go
+     as far as saying, “She is more intelligent than me and I regard her advice
+     as a blessing.” He praises her beauty, her charm, and her vivacity—which
+     often happens with very feeble men—so much and so well that if he is to
+     marry her to someone else, he need not say more in order to make the
+     listener desire her from his description. Such behaviour is only found
+     among souls which are weak and lacking in all self-esteem. -->
+
+<!-- Amalgamation of translations -->
+
+271. Something that I have seen that is very curious---among certain weak
+     individuals---is that they are so dominated by a deep love for their child
+     or their wife that they describe them in public as extremely intelligent.
+     They go as far as to say, “She is more intelligent than me and I regard her
+     advice as a blessing.” They praise her beauty, her charm, her
+     vivacity[^mean-vivacity]---this often happens with very feeble men---and do
+     it so much and so well that if they wished to find her a husband, they need
+     not say anything more in order to make someone desire her from their
      description. Such behaviour is only found among souls which are weak and
      lacking in all self-esteem.
 
