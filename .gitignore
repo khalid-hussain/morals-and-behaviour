@@ -3,3 +3,4 @@
 *.pdf
 combined.md
 main-matter.md
+dist/*.*
