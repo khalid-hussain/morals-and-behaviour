@@ -20,6 +20,8 @@ Original Arabic (Source C: Shamela)
 من عجائب الأخلاق ان الغفلة مذمومة، وأن استعمالها محمود. وإنما ذلك لان من هو مطبوع [على] الغفلة يستعملها في غير موضعها، وفي حيث يجب التحفظ، وهي تغيب عن فهم الحقيقة فدخلت تحت الجهل فذمت لذلك. وأما المتيقظ الطبع فإنه لا يضع الغفلة إلا في موضعها الذي يذم [فيه] البحث والتقصي. والتغافل فهم للحقيقة وإضراب عن الطيش واستعمال للحلم وتسكين للمكروه، فلذلك حمدت حالة التغافل وذمت الغفلة.
  -->
 
+<!-- Original Translation 
+
 319. A curious thing about human nature is that carelessness is bad when it is
      good to know how to make use of it sometimes. This can only be explained by
      the fact that a man who is naturally inclined to carelessness, makes use of
@@ -32,6 +34,22 @@ Original Arabic (Source C: Shamela)
      precipitously,[^mean-precipitious] to use moderation, and to prevent the
      worst happening. Thus it is praiseworthy to know how to pretend not to be
      listening and bad to be naturally inattentive.
+-->
+
+<!-- Modified translation. Credits to Zahraa. -->
+
+319. A curious thing about human nature is that carelessness is blameworthy
+     while making use of it is praiseworthy. This can only be explained by the
+     fact that a man who is naturally inclined to carelessness, makes use of it
+     when he should be vigilant. It is absentmindedness with no sense of
+     reality. His carelessness belongs under the heading of ignorance and that
+     is why it is bad. On the other hand, a spirit which is vigilant by nature
+     only makes use of carelessness for a good purpose when he should not study
+     or research deeply into the subject. To pretend to ignore something in this
+     case means to understand reality, to refrain from acting
+     precipitously,[^mean-precipitious] to maintain self-composure, and to
+     prevent the worst from happening. This is why purposeful overlooking is
+     praised whilst heedlessness is blamed.
 
 320. The same could be said about admitting one is afraid or concealing fact. To
      make it obvious that one is troubled as soon as one begins to have

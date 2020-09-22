@@ -60,7 +60,7 @@
      excesses in language, before you have assured yourself by irrefutable proof
      that the ideas expressed are erroneous.
 
-    Neither should you accept them with the enthusiasm of someone who is
+    Nor should you accept them with the enthusiasm of someone who is
     credulous[^mean-credulous] and convinced until you have assured yourself
     of their veracity by an irrefutable proof. In the two cases, you would be
     shutting your eyes and turning away from knowing the truth. On the
