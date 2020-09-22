@@ -243,8 +243,6 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      your ancestry protects you against hunger, or dishonour, or whether it does
      you any good in the next world.
 
-<!-- TODO 250: Double check the following with the book -->
-
 250. Next, consider those who are equally well descended, or even better, those
      who are descended from the Prophets !s[them] or their successors, from the
      virtuous companions of Muḥammad or from scholars; then remember those who
@@ -252,7 +250,7 @@ Graeco--Arabic Gnomologia_ (New Haven: American Oriental Society, 1975), p.\
      designation of the ancient Persian kings in general.] and Caesars, those
      who are descended from the Tubbaʿ and the various kings of Islam. Consider
      what remains of them and what has survived. Observe those who boast of
-     their ancestry as you do of yours, and you will see that most of them are
+     their ancestry as you do of yours, and you will find that most of them are
      as ignoble as dogs. You will find that they are low, extremely vile, and
      unreliable; you will find that they are adorned with the very worst of
      characteristics.

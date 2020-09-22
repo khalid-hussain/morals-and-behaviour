@@ -1,6 +1,15 @@
+
+
 # DONE
 
 - ~~Various spellings of Judgement/Judgment~~
+- 111: Sent to Lounge: Editorial TG
+- 259: Check the last sentence with the Arabic. -- Sent to Lounge: Editorial TG
+- 265: Check the paragraph. -- Sent to Lounge: Editorial TG
+- 271: Reconsider “in all self-esteem.” -- Sent to Lounge: Editorial TG
+
+- CH10
+  - 319: Check first sentence of translation. -- Sent to Lounge: Editorial TG
 
 # NOT YET
 
@@ -9,24 +18,18 @@
   sentence or outside? If outside, then how do we start a new sentence?
 - Check footnotes in source D.
 
-- CH4 -- Sent to Lounge: Editorial TG
-
 - CH9
   - 250: Check with the book.
-  - 259: Check the last sentence with the Arabic. -- Sent to Lounge: Editorial TG
-  - 265: Check the paragraph. -- Sent to Lounge: Editorial TG
-  - 271: Reconsider “in all self-esteem.” -- Sent to Lounge: Editorial TG
-  - 304: Check for consistency and grammar. -- Sent to Lounge: Editorial TG
-- CH10
-  - 319: Check first sentence of translation.
+  - 304: Check for consistency and grammar. -- Sent to Lounge: Editorial TG -- CHECK THIS YOURSELF
+
 - CH12
-  - 338: Check the second paragraph.
+  - 338: Check the second paragraph. -- Sent to Lounge: Editorial TG
 
 ## Poetry
 
 - CH8: 197
 - CH12: 345
-- 6, 12 (poem)
+- Chapters or Points? 6, 12 (poem)
 
 ## Point 141
 
