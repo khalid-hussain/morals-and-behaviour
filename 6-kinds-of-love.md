@@ -167,3 +167,8 @@
      point of delirium[^mean-delirium] or even death. Beyond this, there is
      absolutely no place where love ends.
 
+175. We used to think that passion was found more often among lively and
+     emotional women. But our experience has shown that this is not the case.
+     Passion is found most often among calm women, as long as their calmness is
+     not the placidity[^mean-placidity] of stupidity.
+
