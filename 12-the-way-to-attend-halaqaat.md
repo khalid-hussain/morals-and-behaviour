@@ -118,7 +118,8 @@
     | Then your sermons will be accepted, people will take example
     |        from your knowledge and your teaching will be profitable.’”
 
-[^edit-poem]: Typesetter: I've made slight edits here to cater for margin constraints while maintaining meaning.
+[^edit-poem]: Typesetter: I've made slight edits here to cater for margin
+constraints while maintaining meaning.
 
 346. Abū Muḥammad continued, Abū al-Aswad wished to condemn only someone who has
      done a deed after forbidding it to others: such a deed would be doubly bad
