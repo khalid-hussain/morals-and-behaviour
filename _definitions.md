@@ -196,3 +196,6 @@ if in water, snow, or mud.
 
 [^mean-palaver]: _palaver_: Applied contemptuously to (what is considered)
 unnecessary, profuse, or idle talk; ‘jaw.’
+
+[^mean-placidity]: _placidity_: The quality of being placid; mildness, calmness,
+tranquillity, peacefulness.
