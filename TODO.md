@@ -19,7 +19,6 @@
 - Check footnotes in source D.
 
 - CH9
-  - 250: Check with the book.
   - 304: Check for consistency and grammar. -- Sent to Lounge: Editorial TG -- CHECK THIS YOURSELF
 
 - CH12
